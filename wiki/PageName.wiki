@@ -1,8 +1,7 @@
 #labels Phase-Requirements
 == Backlog - Sprint 01 ==
 
-|| || || *Dias* ||
-|| || *Itens de backlog* || 0 ||
+|| || *Itens de backlog* || Dia 0 ||
 || 1 || Primeira historia || 8 ||
 || 2 || Primeiro diagrama de caso de uso || 4 ||
 || 3 || Escolha das tecnologias a serem utilizadas || 24 ||
