@@ -1,0 +1,69 @@
+CAA e Bloom
+
+http://www.economicsnetwork.ac.uk/handbook/printable/caa_v5.pdf
+
+http://www.nwlink.com/~Donclark/hrd/bloom.html
+
+http://download.intel.com/education/Common/br/Resources/DEP/skills/Bloom.pdf
+
+http://74.125.47.132/search?q=cache:-NLeXIilkhMJ:www.cinted.ufrgs.br/ciclo9/artigos/12aLuizFernando.pdf+Se+o+trabalho+de+Raabe&cd=9&hl=pt-BR&ct=clnk&gl=br
+
+http://lousadigital.blogspot.com/2008/11/taxonomia-de-bloom.html
+
+SNV
+
+http://www.djangoproject.com/
+ 
+http://pt.wikipedia.org/wiki/Subversion
+ 
+http://www.python.org.br/wiki
+
+Instala o python 2.6
+ 
+http://www.python.org/ftp/python/2.6.2/python-2.6.2.msi
+ 
+O Django (tem que descompactar e executar o setup pelo cmd)
+ 
+http://www.djangoproject.com/download/1.0.2/tarball/
+ 
+MysqlDb para conectar o python ao mysql
+
+http://www.technicalbard.com/files/MySQL-python-1.2.2.win32-py2.6.exe
+
+e faz a fast install do pydev no seu eclipse
+ 
+http://pydev.sourceforge.net/download.html
+
+Não tem que instalar nada no apache.
+
+MysqlDb para conectar o python ao mysql, e só dar 2 clicks depois next, next finish.
+
+http://www.technicalbard.com/files/MySQL-python-1.2.2.win32-py2.6.exe
+
+Pronto ai voce ja vai ter tudo que precisa para trabalhar com python (não precisa de mais nada).
+
+
+E instala o plugin do pydev no seu eclipse, para não ter que ficar mechendo no notepad.
+
+ 
+http://pydev.sourceforge.net/download.html
+
+Poe o Python.exe no path e executa isso para criar um projeto :
+
+python django-admin.py startproject meusite
+
+ele vai criar um diretorio com os arquivos basicos do projeto, edita o arquivo settings.py e poe os dados do teu mysql; usuario, senha, etc...
+ 
+Entra no command e da CD no diretorio do projeto (onde tem um arquivo manager.py) e executa esse comando para iniciar o servidor:
+
+python manage.py runserver
+
+ai é só acessar pelo IE ou firefox http://127.0.0.1:8000/
+
+pronto.
+
+
+http://blogdodantas.dxs.com.br/2009/02/19/instalando-mod_python-no-apache-python-e-web/
+http://www.modpython.org/live/current/doc-html/inst-prerequisites.html
+
+http://www.helder.eti.br/2009/06/pydev-com-django-no-ubuntu-904.html
