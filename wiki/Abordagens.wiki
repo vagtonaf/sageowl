@@ -50,7 +50,7 @@ Metodologia de Engenharia de Requisitos
 
       Benefícios do SCRUM para o cliente
 
-Técnica de Versionamento (SNV)
+Técnica de Versionamento (SNV) - #Vitor ou Jose Roberto - descrever esse assunto#
    
 Metodologia de construção (MVC)
 	
