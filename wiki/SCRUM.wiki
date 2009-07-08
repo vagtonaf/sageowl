@@ -4,7 +4,7 @@ Para uma gestão de projeto de software planejada, utilizamos a metologia SRUM, 
 
 itens de um scrum:
 •	A elaboração de itens do backlog, que é uma série de iterações curtas (sprints);
-•	Reunião diária ou scrum com o tempo suficiente para que cada participante fale sobre o  o trabalho a ser realizado, progresso seguido ou o que o impede de seguir avante no processo;
-•	A entrega de um sprints concluido;
-•	discursão breve e planejamento, na qual os itens do backlog para uma sprint (iteração) são definidos;
+•	Reunião diária ou scrum com o tempo suficiente para que cada participante fale sobre o  trabalho a ser realizado, progresso seguido ou o que o impede de seguir avante no processo;
+•	É documentada a entrega de um sprints;
+•	Planejamento e discursão breve, são definidos qual os itens do backlog para uma sprint (iteração);
 •	Todos os membros da equipe refletem sobre a sprint passado, e preparam uma melhoria para proximo splint.
