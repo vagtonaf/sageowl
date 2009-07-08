@@ -67,3 +67,12 @@ http://blogdodantas.dxs.com.br/2009/02/19/instalando-mod_python-no-apache-python
 http://www.modpython.org/live/current/doc-html/inst-prerequisites.html
 
 http://www.helder.eti.br/2009/06/pydev-com-django-no-ubuntu-904.html
+
+Faz o download desse cara e poe no pendrive
+
+Portable Python 1.1 based on Python 2.6.1
+
+
+http://www.portablepython.com/releases/
+
+Ele já vem com o django instalado.
