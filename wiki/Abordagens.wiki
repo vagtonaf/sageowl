@@ -34,7 +34,7 @@ Fundamentação Teórica  - ok
 
 Contribuições Esperadas
 
-Organização do Trabalho
+Organização do Trabalho - #Vitor e Jose Roberto - tratar esse assunto#
 
 Solução Proposta
 
@@ -42,7 +42,7 @@ Solução Proposta
 
 Metodologia de Engenharia de Requisitos 
 
-   SCRUM  - Executando
+   SCRUM  - Vagton Executando
    
       Descrição
     
@@ -112,9 +112,9 @@ Diagrama de Caso de Uso (UML)
 
 	Descrições do Caso de Uso
 
-	Diagrama de Classes
+	Diagrama de Classes  
 
-		Diagrama de Classes Conceitual
+		Diagrama de Classes Conceitual - #Protótipo inicial Vagton#
 
 		Diagrama de Classes Implementado
 
