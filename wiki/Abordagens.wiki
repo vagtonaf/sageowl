@@ -161,7 +161,15 @@ Projeto de Implantação
 
 	Procedimento de Implantação em servidor
 
-	Instalação (Apache, Python, Django, mysqldb)
+	Instalação 
+
+            Apache
+
+            Python  - # Vagton inciando estudo #
+
+            Django
+
+            MySqldb
 
 	Política de Backup
 
