@@ -52,6 +52,7 @@ Metodologia de Engenharia de Requisitos
 
 Técnica de Versionamento (SNV) - #Vitor ou Jose Roberto - descrever esse assunto#
    
+
 Metodologia de construção (MVC)
 	
 Metodologia de implementação
