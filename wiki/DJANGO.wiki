@@ -1,0 +1,9 @@
+#Tratar essas infromações#
+Django é um framework web de alto nível escrito em Python que estimula o desenvolvimento rápido e limpo
+Desenvolvido e utilizado por mais de dois anos em uma operação ágil de notícias online, Django foi projetado para lidar com dois desafios: os prazos apertados de uma redação e os requisitos rígidos dos experientes desenvolvedores web que o criaram [en]. Ele permite que você construa rapidamente aplicações web de alto desempenho e elegância.
+
+Django se concentra no máximo de automatização possível e adere ao princípio DRY [en] (não se repita).
+
+Mergulhe na leitura da visão geral.
+Quando você estiver pronto para escrever código, leia o guia de instalação e o tutorial.
+Não deixe de visitar também a página oficial do projeto [en].
