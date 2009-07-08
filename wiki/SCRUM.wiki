@@ -8,3 +8,19 @@ itens de um scrum:
 •	É documentada a entrega de um sprints;
 •	Planejamento e discursão breve, são definidos qual os itens do backlog para uma sprint (iteração);
 •	Todos os membros da equipe refletem sobre a sprint passado, e preparam uma melhoria para proximo splint.
+
+Benefícios do SCRUM para o cliente:
+•	Clientes se tornam colaboradores e fazem parte da equipe de desenvolvimento, pois os clientes são os que se interessam com os resultados;
+•       As funcionalidades (módulos) são entregues totalmente desenvolvidas e com frequência.  
+•	Produz uma iteração maio do Grupo de trabalho, atravez de reuniões diárias;
+•	Transparência na organização, planejamento e desenvolvimento;
+•	Quanto aos riscos no desenvolvimento, elabora planos imediatos para solução dos mesmos.
+•	Cada membro da equipe responde a perguntas, nas reuniões de discursões, mantendo todos alinhados com o projeto
+Perguntas tipo: O que fiz desde ontem?
+O que estou planejando fazer até amanhã? 
+Existe algo me impedindo de atingir minha meta?
+
+•	Reuniões freqüentes com os stakeholders para monitorar o progresso, contribuido para que todos os envolvidos no processo estejam sientes das suas obrigações com o grupo;
+•	Problemas não são ignorados e ninguém é penalizado por reconhecer ou descrever qualquer problema não visto;
+•	Locais e horas de trabalho são otimizados e focados no problema em si, no sentido de que "trabalhar mais e fazer horas extras" não necessariamente significa "produzir mais e ser eficiente".
+
