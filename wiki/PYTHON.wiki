@@ -5,3 +5,27 @@ Descrição:
    O controle de bloco é feito apenas por identação, ou sejá não há delimitadores como o {} do java.
    É atualmente utilizada em grandes projetos de grandes empresas como a Google, NASA, Distros Linux. 
    Implementa Google App Engine
+
+   Comparação de complexibilidade no script de programação:
+   Linguagem Python:
+     print "Hello Wolrd"
+
+   Linguagem C:
+
+#include <stdio.h>
+
+int main(void)
+{
+   printf("Hello Wolrd");
+   return 0;
+}
+
+Linguagem C++:
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+   cout << "Hello Wolrd";
+}
