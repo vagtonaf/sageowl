@@ -1,4 +1,4 @@
-<table><tr><td>Abordagem</td><td>Status</td></table>
+||Abordagem||Status||
 
 Introdução   -  ok
 
