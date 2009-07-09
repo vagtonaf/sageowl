@@ -11,7 +11,7 @@ Tópicos a serem tratados
 ||		||	Avaliação Somativa  - ok 	||	ok	||		||
 ||		||	Taxonomia dos objetivos educacionais  -  ok	||	ok	||		||
 ||		||		||	Domínio Cognitivo	||	ok	||
-||		||		||	A Avaliação Meta-Cognitiva x Avaliação Cognitiva	||		||
+||		||		||A Avaliação Meta-Cognitiva x Avaliação Cognitiva|| ok	||
 ||		||	Avaliação Eletrônica (E-Assessment) 	||	ok	||		||
 ||		||	Métricas Metacognitivas  -  ok	||	ok	||		||
 ||		||	Mértica Cognitiva -  ok	||	ok	||		||
