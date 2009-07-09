@@ -1,0 +1,7 @@
+Descrição:
+   Python é uma linguagem fácil e agradável de ser utilizada, linguagem de scripts ou seja não precisa ser compilada, de ser transformada em executável para rodar no computador. Python vem sendo usado em inumros programas de Computação gráfica, como GIMP, Inkscape e Blender, para aumentar os seus recursos e ferramentas que eles possuem.
+   É uma linguagem interpretada e orientad a objetos, tudo é referenciado como objeto
+   Oferece tipos de alto nível como tuplas, dicionários, listas, classes, strings, arquivos.
+   O controle de bloco é feito apenas por identação, ou sejá não há delimitadores como o {} do java.
+   É atualmente utilizada em grandes projetos de grandes empresas como a Google, NASA, Distros Linux. 
+   Implementa Google App Engine
