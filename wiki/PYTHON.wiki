@@ -6,8 +6,10 @@ Descrição:
    É atualmente utilizada em grandes projetos de grandes empresas como a Google, NASA, Distros Linux. 
    Implementa Google App Engine
 
-   Comparação de complexibilidade no script de programação:
-   Linguagem Python:
+Comparação de complexibilidade no script de programação:
+
+Linguagem Python:
+
      print "Hello Wolrd"
 
    Linguagem C:
@@ -29,3 +31,7 @@ int main()
 {
    cout << "Hello Wolrd";
 }
+
+Referências
+
+http://opencg.cerberus1746.site90.com/?p=21
