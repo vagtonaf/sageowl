@@ -1,4 +1,3 @@
-||	Abordagem	||	Status	||		||		||
 ||	Introdução	||	ok	||		||		||
 ||	Contexto	||	ok	||		||		||
 ||		||	O Papel da Avaliação na Aprendizagem	||	ok	||		||
