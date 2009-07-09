@@ -81,7 +81,7 @@
 ||		||	Apache	||		||		||
 ||		||	Python	||	# Vagton inciando estudo #	||		||
 ||		||	Django	||	# Vagton inciando estudo #	||		||
-||		||	MySqldb	||		||		||
+||		||	MySqlDB	||		||		||
 ||		||	Política de Backup	||		||		||
 ||		||	Ambiente Operacional	||		||		||
 ||	Requisitos de Funcionamento	||		||		||		||
