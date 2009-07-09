@@ -20,10 +20,10 @@ Tópicos a serem tratados
 ||	Solução Proposta	||		||		||		||
 ||		||	Solução com metodologia aplicada	||		||		||
 ||	Metodologia de Engenharia de Requisitos 	||		||		||		||
-||		||	SCRUM  - Vagton Executando	||		||		||
-||		||		||	Descrição	||		||
-||		||		||	Método	||		||
-||		||		||	Benefícios do SCRUM para o cliente	||		||
+||		||	SCRUM  	||	#Vagton Executando#	||		||
+||		||		||	Descrição	||	ok	||
+||		||		||	Método	||	ok	||
+||		||		||	Benefícios do SCRUM para o cliente	||ok		||
 ||	Técnica de Versionamento (SNV)	||	 #Vitor ou Jose Roberto - descrever esse assunto	||		||		||
 ||	Metodologia de construção (MVC)	||		||		||		||
 ||	Metodologia de implementação	||		||		||		||
