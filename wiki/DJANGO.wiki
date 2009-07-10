@@ -1,4 +1,4 @@
-||#Vagton está tratando essas infromações#||
+||#Vagton está tratando essas informações#||
 
 Django é um framework para web de alto nível, escrito em linguagem Python e que tem como principal meta estimular o desenvolvimento de aplicações de um modo mais rápido e tendo como resultado final um código limpo e de fácil manutenção.
 
