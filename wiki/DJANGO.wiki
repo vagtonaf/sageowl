@@ -1,21 +1,16 @@
   Django é um framework para web de alto nível, escrito em linguagem Python e que tem como principal meta estimular o desenvolvimento de aplicações de um modo mais rápido e tendo como resultado final um código limpo e de fácil manutenção. Seu nome foi inspirado na música de jazz "Django Reinhardt". 
   Este framework é resultado de um trabalho de dois anos e teve sua prova em um site de jornalistico de noticias online na cidade de Lawrence, no Kansas, se mostrou uma ferramenta poderosa de operação ágil e simples de programar. Os desafios promovidos pelo projeto do Django são os de atender as necessidades dos experientes desenvolvedores na hora da materialização de requisitos dos projetos e atender aos prazos apertados, assim solucionando processos complexos e que demandariam muito tempo se construidos da maneira abitual, está ferramenta permite a construção de aplicações elegantes de alto nível e desempenho. O Django foca e se concentra no máximo de automatização possível e adere ao princípio DRY, "Don´t Repeat Yourself", com a finalidade de reduzir a duplicação de código, aumentando assim a eficiênciao do reaproveitamento de código. Ele também implementa o padrão MVC, "Model View Controller". Tornou-se um projeto de código aberto e foi publicado em 2005 sob a licença BSD.
 
-Após a intalação do Django, ao executar o comando de exemplo abaixo para criação de projetos:
+Após a intalação do Django, ao executar o comando de exemplo abaixo, criaremos o projeto com o nome "meuprojeto":
   djangoadmin.py startprojet meuprojeto
-Obteremos como resultado quatro arquivos criados em uma pasta de arquivos:
-  __init__.py
-  manage.py
-  settings.py
-  urls.py
-
-O "__init__.py"  é um arquivo que mostra ao Python que está pasta de arquivos é considerada como um pacote. Ele é um arquivo vazio.
-O "manage.py" permite com que o desenvolvedor interajá com o projeto de várias maneiras diferentes, atraves de um utilitário de linha de comando
-O "settings.py" é onde se encontram as configurações e definições referentes ao projeto
-O "urls.py" concentra as declarações das URLs do projeto, contém uma tabela de conteúdos dos sites utilizados pelo Django.
-
- 
-
-
+Obteremos como resultado quatro arquivos criados em uma pasta de arquivos que são descritos a seguir:
+1) "__init__.py"  é um arquivo que mostra ao Python que está pasta de arquivos é considerada como um pacote. Ele é um arquivo vazio e ele é criado tanto projetos como aplicações que veremos logo a seguir.
+2) "manage.py" permite com que o desenvolvedor interjá com o projeto de várias maneiras diferentes, atraves de um utilitário de linha de comando
+3) "settings.py" é onde se encontram as configurações e definições referentes ao projeto
+4) "urls.py" concentra as declarações das URLs do projeto, contém uma tabela de conteúdos dos sites utilizados pelo Django.
+Criaremos agora uma aplicação de nome "contatos" com o seguinte comando:
+  python manage.py startapp contatos
+É importante observar que devemos executar o comando dentro da pasta do projeto para que ao ser executado ele crie uma pasta com o nome da aplicação contendo mais três arquivos que são o "__ini__.py" é os arquivos "models.py" e "views.py" que são respectivamente, primeiro o responsável pelos dados da aplicação e segundo o responsável pela interface da aplicação.
+   
 Referencias:
 http://pet.inf.ufsc.br/files/django.pdf
