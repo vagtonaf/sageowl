@@ -20,7 +20,7 @@ Tópicos a serem tratados
 ||	Solução Proposta	||		||		||		||
 ||		||	Solução com metodologia aplicada	||		||		||
 ||	Metodologia de Engenharia de Requisitos 	||		||		||		||
-||		||	SCRUM  	||	#Vagton Executando#	||		||
+||		||	SCRUM  	||	ok	||		||
 ||		||		||	Descrição	||	ok	||
 ||		||		||	Método	||	ok	||
 ||		||		||	Benefícios do SCRUM para o cliente	||ok		||
@@ -80,8 +80,8 @@ Tópicos a serem tratados
 ||		||	Procedimento de Implantação em servidor	||		||		||
 ||		||	Instalação 	||		||		||
 ||		||	Apache	||		||		||
-||		||	Python	||	# Vagton inciando estudo #	||		||
-||		||	Django	||	# Vagton inciando estudo #	||		||
+||		||	Python	||	ok	||		||
+||		||	Django	||	ok	||		||
 ||		||	MySqlDB	||		||		||
 ||		||	Política de Backup	||		||		||
 ||		||	Ambiente Operacional	||		||		||
