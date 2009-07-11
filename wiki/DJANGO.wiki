@@ -12,5 +12,17 @@ Criaremos agora uma aplicação de nome "contatos" com o seguinte comando:
   python manage.py startapp contatos
 É importante observar que devemos executar o comando dentro da pasta do projeto para que ao ser executado ele crie uma pasta com o nome da aplicação contendo mais três arquivos que são o "__ini__.py" é os arquivos "models.py" e "views.py" que são respectivamente, primeiro o responsável pelos dados da aplicação e segundo o responsável pela interface da aplicação.
    
+
 Referencias:
+
 http://pet.inf.ufsc.br/files/django.pdf
+
+http://www.djangoproject.com
+
+http://www.djangobrasil.org
+
+http://www.djangobook.com
+
+http://andrewsmedina.com
+
+http://rfdev.org/2008/02/16/django-templates-editado-e-resumido
