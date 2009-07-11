@@ -1,4 +1,4 @@
-Tópicos a serem tratados
+Tópicos tratados, ver cada item no Wiki
 ||	Introdução	||	ok	||		||		||
 ||	Contexto	||	ok	||		||		||
 ||		||	O Papel da Avaliação na Aprendizagem	||	ok	||		||
