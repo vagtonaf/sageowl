@@ -1,7 +1,7 @@
 #labels Phase-Implementation
 Itens a serem abordados:
  
-  * Definição do modelo de inicial classes.
+  * Definição do modelo inicial de classes.
   * Criação do schema inicial do banco de dados.
   * Criação do esqueleto do projeto.
   * Mapeamento objeto relacional.
