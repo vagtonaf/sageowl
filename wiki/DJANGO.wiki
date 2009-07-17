@@ -12,8 +12,67 @@ Criaremos agora uma aplicação de nome "contatos" com o seguinte comando:
   python manage.py startapp contatos
 É importante observar que devemos executar o comando dentro da pasta do projeto para que ao ser executado ele crie uma pasta com o nome da aplicação contendo mais três arquivos que são o "__ini__.py" é os arquivos "models.py" e "views.py" que são respectivamente, primeiro o responsável pelos dados da aplicação e segundo o responsável pela interface da aplicação.
    
+O Eclipse com o plug-in PyDev é uma das melhores IDEs para desenvolvimento, inclusive em Python. E oferece um bom suporte ao desenvolvimento com o django. Este artigo é baseado em posts de outros blogs e experiência pessoal do autor.
 
-Referencias:
+## Modificar ###
+Instalação do Django
+
+Existem várias formas para instalar o Django. A que eu mais gosto e recomendo é através do tarball. Para isso, vá ao site[3] do django e baixe o arquivo .tar.gz. Então descompacte no caminho desejado e execute:
+
+$sudo python2.4 setup.py install
+
+Recomendo fortemente a utilização do python2.4 com o django. Esta versão do interpretador não vem por padrão no Ubuntu 9.04.
+
+Instalação o Eclipse+PyDev
+
+Para instalar o Eclipse, se ainda não o fez, basta acessar o site[1], realizar o download do mesmo e descompactar no caminho desejado. Supondo que o JDK tenha sido previamente instalado, deverá funcionar.
+
+A instalação do PyDev é ainda mais fácil. No Eclipse:
+
+Acesse "Help > Software Updates"; 
+Selecione a aba "Available Software" e clique em "Add Site"; 
+Entre com o endereço http://pydev.sourceforge.net/updates/. O Eclipse exibirá a opção PyDev Update Site. Marque e clique "Install"; 
+Aceite os termos de uso; Next, Next e Finish. O Eclipse fará o restante.
+Configuração do PyDev
+
+
+No Eclipse, faça:
+
+Windows > Preferences; 
+Expanda a opção PyDev e selecione "Interpreter - Python"; 
+Clique em "New" e informe o caminho para o interpretador /usr/bin/python2.4; 
+Clique em Ok, para salvar as configurações.
+Criando um projeto Django
+
+
+No Eclipse, clique em "File > New Project"; Selecione PyDev, PyDev Project e clique Next; Entre com o nome do projeto e Finish.
+
+Abra o terminal e acesse o subdiretório src do projeto recém-criado e então execute:
+
+$ django-admin startproject mysite
+
+Onde mysite deverá ser substituído pelo nome de sua escolha.
+
+De volta ao Eclipse, faça um "refresh" no projeto (File > Refresh, ou simplesmente F5 com o projeto selecionado). Os módulos gerados automaticamente pelo django deverão ser apresentados.
+
+Abra o módulo manage.py 
+Run > Run Configurations... 
+Crie uma nova configuração, setando o projeto, o módulo principal apontando para "manage.py"; 
+Na área de argumentos (Arguments), entre com runserver --noreload no campo "Program Arguments" e o caminho completo para a pasta mysite em "Working Directory"; 
+Clique "Apply" e "Run".
+Para acessar o site, abra o Firefox e acesse http://localhost:8000/.
+
+Referências
+
+http://www.eclipse.org
+
+http://pydev.sourceforge.net 
+
+http://www.djangoproject.com 
+
+http://solyaris.wordpress.com/2007/05/16/how-to-djangopydev-on-feisty/ 
+
+http://rafaelb.objectis.net/python-zope-plone/como-usar-o-eclipse-para-desenvolver-em-python-especialmente-zope-plone/view
 
 http://pet.inf.ufsc.br/files/django.pdf
 
