@@ -64,9 +64,9 @@ Para acessar o site, abra o Firefox e acesse http://localhost:8000/.
 
 Referências
 
-http://www.eclipse.org
+Projeto Eclipse Foundation. Ottawa, Ontario, Canada. 2004. Disponível em: <http://www.eclipse.org>. Acesso em: 7, jul, 2009.
 
-http://pydev.sourceforge.net 
+Pydev Open Source Project. Pydev Sponsors. Aptana. 2002. Disponível em: <http://pydev.sourceforge.net>. Acesso em: 9, jul, 2009. 
 
 http://www.djangoproject.com 
 
