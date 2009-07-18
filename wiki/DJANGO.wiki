@@ -68,7 +68,7 @@ Projeto Eclipse Foundation. Ottawa, Ontario, Canada. 2004. Disponível em: <http
 
 Pydev Open Source Project. Pydev Sponsors. Aptana. 2002. Disponível em: <http://pydev.sourceforge.net>. Acesso em: 9, jul, 2009. 
 
-Django Project open-source. BSD license. Disponível em: <http://www.djangoproject.com>. Acesso em 12, jul, 2009. 
+Django Project open-source. BSD license. 2009. Disponível em: <http://www.djangoproject.com>. Acesso em 12, jul, 2009. 
 
 http://solyaris.wordpress.com/2007/05/16/how-to-djangopydev-on-feisty/ 
 
