@@ -79,6 +79,6 @@ Django+PyDev on Feisty. 2007.  Disponível em: <http://solyaris.wordpress.com/20
 
 Como usar o Eclipse para desenvolver em Python, especialmente Zope/Plone. Rafael Oliveira. Mestrado em Ciências da Informação. UFMG. 2009. Disponível em: <http://rafaelb.objectis.net> Acesso em 18, jul, 2009.
 
-O framework Django. Eduardo Steiner. PET Computação. UFSC. 2008. Disponível em: < http://pet.inf.ufsc.br/files/django.pdf>. Acesso em 18, jul, 2009.
+O framework Django. Eduardo Steiner. PET Computação. UFSC. 2008. Disponível em: < http://pet.inf.ufsc.br/files/django.pdf >. Acesso em 18, jul, 2009.
 
 Django, Aptana, Gimp, Inkscape. Rafael Campos de Bastiani. Caxias do Sul. RS. RFDev.org. 2008. Disponível em: <http://rfdev.org>. Acesso em 20, jul, 2009.
