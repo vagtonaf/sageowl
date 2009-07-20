@@ -33,7 +33,7 @@ Livro: Agile Software Development with Scrum (Series in Agile Software Developme
 by Ken Schwaber  
 Ken Schwaber (Author) 
 
-Scrum. Vinícius Manhães Teles. Improve It. 2009. Disponível em: <http://improveit.com.br/scrum> Acesso em: 
+Scrum. Vinícius Manhães Teles. Improve It. 2009. Disponível em: <http://improveit.com.br/scrum>. Acesso em 10, jul, 2009.
 
 http://imasters.uol.com.br/artigo/7240/gerencia/gerenciamento_de_projetos_web_-_vamos_de_scrum/
 
