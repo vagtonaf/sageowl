@@ -77,7 +77,7 @@ Disponível em: <http://www.djangobook.com>. Acesso em 17, jul, 2009.
 
 Django+PyDev on Feisty. 2007.  Disponível em: <http://solyaris.wordpress.com/2007/05/16/how-to-djangopydev-on-feisty>. Acesso em 17, jul, 2009.
 
-Como usar o Eclipse para desenvolver em Python, especialmente Zope/Plone. Rafael Oliveira. Mestrado em Ciências da Informação. UFMG. 2009. Disponível em: <http://rafaelb.objectis.net/textos/como-usar-o-eclipse-para-desenvolver-em-python-especialmente-zope-plone> Acesso em 18, jul, 2009.
+Como usar o Eclipse para desenvolver em Python, especialmente Zope/Plone. Rafael Oliveira. Mestrado em Ciências da Informação. UFMG. 2009. Disponível em: <http://rafaelb.objectis.net/textos/como-usar-o-eclipse-para-desenvolver-em-python-especialmente-zope-plone/> Acesso em 18, jul, 2009.
 
 O framework Django. Eduardo Steiner. PET Computação. UFSC. 2008. Disponível em: < http://pet.inf.ufsc.br/files/django.pdf>. Acesso em 18, jul, 2009.
 
