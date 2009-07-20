@@ -70,7 +70,7 @@ Pydev Open Source Project. Pydev Sponsors. Aptana. 2002. Disponível em: <http:/
 
 Django Project open-source. BSD license. 2009. Disponível em: <http://www.djangoproject.com>. Acesso em 12, jul, 2009. 
 
-http://solyaris.wordpress.com/2007/05/16/how-to-djangopydev-on-feisty/ 
+Django+PyDev on Feisty. 2007.  Disponível em: <http://solyaris.wordpress.com/2007/05/16/how-to-djangopydev-on-feisty>. Acesso em 12, jul, 2009.
 
 http://rafaelb.objectis.net/python-zope-plone/como-usar-o-eclipse-para-desenvolver-em-python-especialmente-zope-plone/view
 
