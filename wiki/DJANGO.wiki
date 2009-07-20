@@ -81,6 +81,4 @@ Como usar o Eclipse para desenvolver em Python, especialmente Zope/Plone. Rafael
 
 O framework Django. Eduardo Steiner. PET Computação. UFSC. 2008. Disponível em: < http://pet.inf.ufsc.br/files/django.pdf>. Acesso em 18, jul, 2009.
 
-http://andrewsmedina.com
-
-http://rfdev.org/2008/02/16/django-templates-editado-e-resumido
+Django, Aptana, Gimp, Inkscape. Rafael Campos de Bastiani. Caxias do Sul. RS. RFDev.org. 2008. Disponível em: <http://rfdev.org/2008/02/16/django-templates-editado-e-resumido>. Acesso em 20, jul, 2009.
