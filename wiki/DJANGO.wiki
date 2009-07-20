@@ -72,7 +72,8 @@ Django Project open-source. BSD license. 2009. Disponível em: <http://www.djang
 
 Framework Django Brasil Projeto Aberto. Grupo de discursão. Disponível em: <http://www.djangobrasil.org>. Acesso em 15, jul, 2009. 
 
-http://www.djangobook.com
+The Django Book. Copyright 2006, 2007, 2008, 2009 Adrian Holovaty and Jacob Kaplan-Moss.
+Disponível em: <http://www.djangobook.com>. Acesso em 17, jul, 2009.
 
 Django+PyDev on Feisty. 2007.  Disponível em: <http://solyaris.wordpress.com/2007/05/16/how-to-djangopydev-on-feisty>. Acesso em 17, jul, 2009.
 
