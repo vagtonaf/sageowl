@@ -1,0 +1,37 @@
+CAFADE - Computer-assisted Formative Assessment in Distance Education
+
+CAA    - Computer-assisted Assessment 
+         Centro que oferece uma referência nacional de aconselhamento e apoio para aqueles que pretendam utilizar os computadores para a avaliação no ensino e educação
+         http://www.glow.ac.uk - Desenvolvimento de um código de práticas para a entrega de exames informatizado
+         http://www.cetis.ac.uk - Questão de Teste de Interoperabilidade do grupo de trabalho
+CAAA   - computer-assisted assisted assessment
+CAL    - computer-aided learning
+CAT    - Computer adaptive test(s)
+CBA    - Computer-based assessment
+CMC    - Computer-mediated communication
+IT     - Information Technology
+MCQs   - multiple-choice questions
+MRQ    - multiple-response questions
+QTI    - question and Test Interoperability
+VLE    - virtual learning evironments
+PYTHON -
+SCRUM  -
+SQL    -
+MYSQL  -
+DLL    -
+HTTP   -
+FTP    -
+SMTP   -
+GIMP   -
+IMAP   -
+POP    -
+XML-RPC -
+COM    -
+QT     -
+TK     -
+GTK    -
+WXwIGETS -
+PYDEV  -
+UNIX   -
+DELPHI -
+DJANGO -
