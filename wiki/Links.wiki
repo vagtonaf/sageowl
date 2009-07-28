@@ -76,3 +76,14 @@ Portable Python 1.1 based on Python 2.6.1
 http://www.portablepython.com/releases/
 
 Ele já vem com o django instalado.
+
+Instalação do SVN Repositorio
+  http://subclipse.tigris.org/install.html
+  usar essa url
+  http://subclipse.tigris.org/update_1.6.x
+  instalar no eclipse
+  criar new repository location
+  referenciar a url https://sageowl.googlecode.com/svn/trunk/
+
+  para o seu login no gmail
+  a senha e conseguida via esse link: http://code.google.com/hosting/settings
