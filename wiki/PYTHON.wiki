@@ -3,8 +3,14 @@ Descrição:
    É uma linguagem interpretada e orientad a objetos, tudo é referenciado como objeto
    Oferece tipos de alto nível como tuplas, dicionários, listas, classes, strings, arquivos.
    O controle de bloco é feito apenas por identação, ou sejá não há delimitadores como o {} do java.
-   É atualmente utilizada em grandes projetos de grandes empresas como a Google, NASA, Distros Linux. 
-   Implementa Google App Engine
+   É atualmente utilizada em grandes projetos de grandes empresas como a Google, NASA, Distros Linux. Implementa Google App Engine.
+
+Em que tipo de aplicações eu usaria Python?
+[ http://www.pythonbrasil.com.br/moin.cgi/PerguntasFrequentes/SobrePython ]
+
+   Python é uma linguagem que pode ser empregada na solução da maioria dos problemas, sendo desiginada de uso geral. Sua biblioteca padrão comtém módulos para processamento de texto e expressões regulares, possue recurso parar protocolos de rede HTTP, FTP, SMTP, XML-RPC, IMAP, POP. Existe uma grande variade de extensões adicionais para todo tipo de aplicação e também possue acesso a serviços do sistema operacional, criptografia, interface gráfica etc. Em aplicações web é largamente usado como linguagem de scripting para administração de sistemas e automação. Sua facilidade de integração com C torna o essa linguagem mais atrativa em aplicações de maior porte. Com o uso de ferramentas como o freeze ou Py2Exe é possível distribuir aplicações Python stand-alone, sem que o usuário tenha que instalar o interpretador Python separadamente.
+
+Praticamente tudo o que se faria com qualquer linguagem de programação, seja ela interpretada ou compilada pode-se se fazer com python: protótipos de sistemas, automatizar tarefas repetitivas como manipulação de texto, cópia de arquivos e outros. Pode-se também criar programas que funcionam no modo texto, tanto interativos como servidores (ou daemons). Pode-se fazer programas em modo gráfico usando a interface nativa do seu sistema, ou então utilizando Tk, GTk, Qt, wxWidgets e tantas outras.  
 
 Comparação de complexibilidade no script de programação:
 
