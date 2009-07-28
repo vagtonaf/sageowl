@@ -1,4 +1,5 @@
 Descrição:
+
    Python é uma linguagem fácil e agradável de ser utilizada, linguagem de scripts ou seja não precisa ser compilada, de ser transformada em executável para rodar no computador. Python vem sendo usado em inumros programas de Computação gráfica, como GIMP, Inkscape e Blender, para aumentar os seus recursos e ferramentas que eles possuem.
    É uma linguagem interpretada e orientad a objetos, tudo é referenciado como objeto
    Oferece tipos de alto nível como tuplas, dicionários, listas, classes, strings, arquivos.
@@ -6,11 +7,12 @@ Descrição:
    É atualmente utilizada em grandes projetos de grandes empresas como a Google, NASA, Distros Linux. Implementa Google App Engine.
 
 Em que tipo de aplicações eu usaria Python?
-[ http://www.pythonbrasil.com.br/moin.cgi/PerguntasFrequentes/SobrePython ]
 
-   Python é uma linguagem que pode ser empregada na solução da maioria dos problemas, sendo desiginada de uso geral. Sua biblioteca padrão comtém módulos para processamento de texto e expressões regulares, possue recurso parar protocolos de rede HTTP, FTP, SMTP, XML-RPC, IMAP, POP. Existe uma grande variade de extensões adicionais para todo tipo de aplicação e também possue acesso a serviços do sistema operacional, criptografia, interface gráfica etc. Em aplicações web é largamente usado como linguagem de scripting para administração de sistemas e automação. Sua facilidade de integração com C torna o essa linguagem mais atrativa em aplicações de maior porte. Com o uso de ferramentas como o freeze ou Py2Exe é possível distribuir aplicações Python stand-alone, sem que o usuário tenha que instalar o interpretador Python separadamente.
+   Python é uma linguagem que pode ser empregada na solução da maioria dos problemas, sendo desiginada de uso geral. Sua biblioteca padrão comtém módulos para processamento de texto e expressões regulares, possue recurso parar protocolos de rede HTTP, FTP, SMTP, XML-RPC, IMAP, POP. Existe uma grande variade de extensões adicionais para todo tipo de aplicação e também possue acesso a serviços do sistema operacional, criptografia, interface gráfica etc. Em aplicações web é largamente usado como linguagem de scripting para administração de sistemas e automação. Sua facilidade de integração com C torna o essa linguagem mais atrativa em aplicações de maior porte. Com o uso de ferramentas como o freeze ou Py2Exe que são Geradores de arquivos executáveis e/ou componentes COM (DLL) que podem ser utilizados sem a presença do interpretador é possível distribuir aplicações Python stand-alone, sem que o usuário tenha que instalar o interpretador Python separadamente.
 
-Praticamente tudo o que se faria com qualquer linguagem de programação, seja ela interpretada ou compilada pode-se se fazer com python: protótipos de sistemas, automatizar tarefas repetitivas como manipulação de texto, cópia de arquivos e outros. Pode-se também criar programas que funcionam no modo texto, tanto interativos como servidores (ou daemons). Pode-se fazer programas em modo gráfico usando a interface nativa do seu sistema, ou então utilizando Tk, GTk, Qt, wxWidgets e tantas outras.  
+   Praticamente tudo o que se faria com qualquer linguagem de programação, seja ela interpretada ou compilada pode-se se fazer com python desde potótipos de sistemas, automatizar há tarefas repetitivas como manipulação de texto, cópia de arquivos. Pode-se também desenvolver aplicações que funcionam no modo texto, tanto interativos como servidores ou daemons. Podemos desenvolver webs em modo gráfico usando a interface nativa do sistema, ou utilizando Qt, Tk, GTk, wxWidgets, etc.. 
+
+ Sendo assim o Python é uma linguagem de multiuso, pode-se criar websites até aplicativos desktop, existem vários ambientes integrados para a linguagem, o seu constructor é muito semelhante ao do Delphi, no Eclipse é integrável através do Pydev, WingWare, entre outros. Como é portável a quase todos os sistemas operacionais existentes até mesmo em sistemas de grande porte como o Unix, foi desenvolvido para integração com vários bancos de dados através de plug-in's. Possui uma série de funções e classes que reduzem o trabalho do Programador. Podendo fazer a integração com o C++, e desenvolver aplicações Web utilizando frameworks, como o Django. 
 
 Comparação de complexibilidade no script de programação:
 
@@ -54,5 +56,7 @@ Embora se possa pensar que MVC é um complexo desenho padrão, na verdade não �
 
 
 Referências
+
+http://www.pythonbrasil.com.br/moin.cgi/PerguntasFrequentes/SobrePython
 
 http://opencg.cerberus1746.site90.com/?p=21
