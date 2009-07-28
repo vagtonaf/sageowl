@@ -57,6 +57,8 @@ Embora se possa pensar que MVC é um complexo desenho padrão, na verdade não �
 
 Referências
 
+http://www.python.org.br
+
 http://www.pythonbrasil.com.br/moin.cgi/PerguntasFrequentes/SobrePython
 
 http://opencg.cerberus1746.site90.com/?p=21
