@@ -47,8 +47,14 @@ IMAP   - Internet Message Access Protocol, é um protocolo de gerenciamento de c
 
 POP3    -  Protocolo (POP) que a maioria dos provedores oferece aos seus assinantes.
 
+Inkscape -  Software livre para editoração eletrônica de imagens e documentos vetoriais.
+
+Blender - Programa de computador de código aberto,desenvolvido pela Blender Foundation, para modelagem, animação, texturização, composição, renderização, edição de vídeo e criação de aplicações interativas em 3D.
+
 XML-RPC -
+
 COM    -
+
 QT     -
 TK     -
 GTK    -
