@@ -47,13 +47,13 @@ IMAP   - Internet Message Access Protocol, é um protocolo de gerenciamento de c
 
 POP3    -  Protocolo (POP) que a maioria dos provedores oferece aos seus assinantes.
 
-Inkscape -  Software livre para editoração eletrônica de imagens e documentos vetoriais.
+INKSCAPE -  Software livre para editoração eletrônica de imagens e documentos vetoriais.
 
-Blender - Programa de computador de código aberto,desenvolvido pela Blender Foundation, para modelagem, animação, texturização, composição, renderização, edição de vídeo e criação de aplicações interativas em 3D.
+BLENDER - Programa de computador de código aberto,desenvolvido pela Blender Foundation, para modelagem, animação, texturização, composição, renderização, edição de vídeo e criação de aplicações interativas em 3D.
 
 NASA - National Aeronautics and Space Administration; Administração Nacional do Espaço e da Aeronáutica, também conhecida como Agência Espacial Americana.
 
-Google - Empresa desenvolvedora de serviços online, sediada nos Estados Unidos.
+GOOGLE - Empresa desenvolvedora de serviços online, sediada nos Estados Unidos.
 
 XML-RPC - Protocolo de RPC codificado em XML. É um protocolo simples, definido com poucas linhas de códigos em oposição com a maioria dos sistemas de RPC
 
@@ -80,3 +80,7 @@ UNIX   -  Sistema operativo ou sistema operacional portátil ou portável, multi
 DELPHI - É um IDE, ambiente integrado para desenvolvimento de software, produzida antigamente pela Borland Software Corporation atualmente produzida pela empresa Embarcadero.
 
 DJANGO -  Framework para desenvolvimento rápido para web, escrito em Python, que utiliza o padrão MVC (Model-View-Controller). 
+
+WIKIPÉDIA - Enciclopédia multilíngue online livre na web, colaborativa, ou seja, escrita internacionalmente por várias pessoas comuns de diversas regiões do mundo, todas elas voluntárias. 
+
+WIKI - Software colaborativo que permite a edição coletiva dos documentos usando um sistema que não necessita que o conteúdo tenha que ser revisto antes da sua publicação.
