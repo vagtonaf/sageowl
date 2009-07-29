@@ -86,3 +86,7 @@ DJANGO -  Framework para desenvolvimento rápido para web, escrito em Python, qu
 WIKIPÉDIA - Enciclopédia multilíngue online livre na web, colaborativa, ou seja, escrita internacionalmente por várias pessoas comuns de diversas regiões do mundo, todas elas voluntárias. 
 
 WIKI - Software colaborativo que permite a edição coletiva dos documentos usando um sistema que não necessita que o conteúdo tenha que ser revisto antes da sua publicação.
+
+BACKLOG - (Backlog de produto e backlog de sprint) é uma lista de itens priorizados a serem desenvolvidos para um software.
+
+SPRINT - É uma interpretação do backlog do produto e contém tarefas concretas que serão realizadas durante o próximo sprint para implementar alguns dos itens principais no backlog do produto.
