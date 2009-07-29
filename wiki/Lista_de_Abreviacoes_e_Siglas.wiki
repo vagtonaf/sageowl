@@ -69,6 +69,8 @@ GTK+    - É um toolkit multi-plataforma para a criação de interfaces gráfica
 
 WIGETS - componente de uma interface gráfica do utilizador (GUI), o que inclui janelas, botões, menus, ícones, barras de rolagem, etc..
 
+MVC - Model-View-Controller, termo é frequentemente ouvido em declarações como " framework foo supports MVC".
+
 PYDEV  -
 
 UNIX   -
