@@ -29,10 +29,12 @@ PYTHON - Python é uma linguagem de programação de alto nível, interpretada, 
 
 SCRUM  - Método ágil para Gerenciamento de Projetos. A designação SCRUM vem do Rugby e significa o reinício do jogo em certos casos.
 
-SQL    - Structured Query Language, ou Linguagem de Consulta Estruturada.
+SQL    - Linguagem de Consulta Estruturada, do inglês Structured Query Language.
 
-MYSQL  -
-DLL    -
+MYSQL  - Sistema de Gerenciamento de Banco de Dados (SGBD), criado na Suécia por dois suecos e um finlandês: David Axmark, Allan Larsson e Michael "Monty" Widenius, a Oracle é atualmente a detentora dos direitos do MYSQL, está que comprou a Sun Microsystems, antiga dona o produto.
+
+DLL    - Dynamic-link library ou Biblioteca de ligação dinâmica, é a implementação feita pela Microsoft para o conceito de bibliotecas compartilhadas inicialmente nos sistemas operacionais Microsoft Windows e OS/2.
+
 HTTP   -
 FTP    -
 SMTP   -
