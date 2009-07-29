@@ -90,3 +90,5 @@ WIKI - Software colaborativo que permite a edição coletiva dos documentos usan
 BACKLOG - Para a Metrodologia SCRUM, Backlog de produto e backlog de sprint é uma lista de itens priorizados a serem desenvolvidos para um software.
 
 SPRINT - Está ligado a metodologia SCRUM, é uma interpretação do backlog do produto e contém tarefas concretas que serão realizadas durante o próximo sprint para implementar alguns dos itens principais no backlog do produto.
+
+BSD -BSD (Berkeley Software Distribution) é um Sistema Operacional UNIX desenvolvido pela Universidade de Berkeley, não é um único Sistema Operacional mas sim uma larga família derivada do original.
