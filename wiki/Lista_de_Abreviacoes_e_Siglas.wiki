@@ -79,4 +79,4 @@ UNIX   -  Sistema operativo ou sistema operacional portátil ou portável, multi
 
 DELPHI - É um IDE, ambiente integrado para desenvolvimento de software, produzida antigamente pela Borland Software Corporation atualmente produzida pela empresa Embarcadero.
 
-DJANGO -
+DJANGO -  Framework para desenvolvimento rápido para web, escrito em Python, que utiliza o padrão MVC (Model-View-Controller). 
