@@ -40,9 +40,10 @@ int main()
    cout << "Hello Wolrd";
 }
 
+#Verificar o texto abaixo e reescrever - Vagton#
 
-Model-view-controller
-MVC O termo é frequentemente ouvida em declarações como " framework foo supports MVC". Embora MVC não é realmente algo técnico, mas sim organizacional, muitos framework da web usar este modelo para ajudar o dono da obra para trazer estrutura em seu programa. Bigger pode ter muitas aplicações web de código, por isso, é uma boa ideia ter estrutura no programa desde o início. Dessa forma, mesmo os utilizadores de outros framework (ou mesmo línguas, como se nada Python MVC-específicas) pode entender o código existente mais fácil, pois eles já estão familiarizados com a estrutura.
+Model-View-Controller
+ O termo é frequentemente ouvido em declarações como " framework foo supports MVC". Embora MVC não é realmente algo técnico, mas sim organizacional, muitos framework da web usar este modelo para ajudar o dono da obra para trazer estrutura em seu programa. Bigger pode ter muitas aplicações web de código, por isso, é uma boa ideia ter estrutura no programa desde o início. Dessa forma, mesmo os utilizadores de outros framework (ou mesmo línguas, como se nada Python MVC-específicas) pode entender o código existente mais fácil, pois eles já estão familiarizados com a estrutura.
 
 MVC stands de três componentes: 
 
