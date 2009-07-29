@@ -73,9 +73,9 @@ Tópicos tratados, ver cada item no Wiki
 ||	Desenvolvimento 	||		||		||		||
 ||		||	Protótipo da Aplicação	||		||		||
 ||	Projeto de Interface Gráfica	||		||		||		||
-||		||	Taxionomia da Hierarquia de Telas	||		||		||
-||		||	Padrões e convenções utilizados nos desenhos das telas	||		||		||
-||		||	Layout das telas	||		||		||
+||		||	Taxionomia da Hierarquia de Telas	||	Jose Roberto	||		||
+||		||	Padrões e convenções utilizados nos desenhos das telas	|| Jose Roberto		||		||
+||		||	Layout das telas	||	Jose Roberto	||		||
 ||	Segurança	||		||		||		||
 ||	Projeto de Implantação	||		||		||		||
 ||		||	Procedimento de Implantação em servidor	||		||		||
