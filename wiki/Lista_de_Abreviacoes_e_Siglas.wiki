@@ -55,6 +55,8 @@ NASA - National Aeronautics and Space Administration; Administração Nacional d
 
 GOOGLE - Empresa desenvolvedora de serviços online, sediada nos Estados Unidos.
 
+YAHOO - Empresa norte-americana de serviços de Internet com a missão de ser "o serviço de Internet global mais essencial para consumidores e negócios". 
+
 XML-RPC - Protocolo de RPC codificado em XML. É um protocolo simples, definido com poucas linhas de códigos em oposição com a maioria dos sistemas de RPC
 
 RPC - Chamada Remota de Procedimento, acrônimo de Remote Procedure Call. 
