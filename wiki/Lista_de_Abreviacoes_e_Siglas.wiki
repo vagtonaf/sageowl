@@ -51,15 +51,28 @@ Inkscape -  Software livre para editoração eletrônica de imagens e documentos
 
 Blender - Programa de computador de código aberto,desenvolvido pela Blender Foundation, para modelagem, animação, texturização, composição, renderização, edição de vídeo e criação de aplicações interativas em 3D.
 
-XML-RPC -
+NASA - National Aeronautics and Space Administration; Administração Nacional do Espaço e da Aeronáutica, também conhecida como Agência Espacial Americana.
 
-COM    -
+Google - Empresa desenvolvedora de serviços online, sediada nos Estados Unidos.
 
-QT     -
-TK     -
-GTK    -
-WXwIGETS -
+XML-RPC - Protocolo de RPC codificado em XML. É um protocolo simples, definido com poucas linhas de códigos em oposição com a maioria dos sistemas de RPC
+
+RPC - Chamada Remota de Procedimento, acrônimo de Remote Procedure Call. 
+
+XML - eXtensible Markup Language é uma recomendação da W3C para gerar linguagens de marcação para necessidades especiais.
+
+W3C -  World Wide Web Consortium é um consórcio de empresas de tecnologia, atualmente com cerca de 500 membros. 
+
+QT     -  Sistema multiplataforma para o desenvolvimento de programas de interface gráfica.
+
+GTK+    - É um toolkit multi-plataforma para a criação de interfaces gráficas. Ele foi desenvolvido para o GIMP.
+
+WIGETS - componente de uma interface gráfica do utilizador (GUI), o que inclui janelas, botões, menus, ícones, barras de rolagem, etc..
+
 PYDEV  -
+
 UNIX   -
+
 DELPHI -
+
 DJANGO -
