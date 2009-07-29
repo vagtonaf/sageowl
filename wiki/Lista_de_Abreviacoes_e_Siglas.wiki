@@ -91,4 +91,6 @@ BACKLOG - Para a Metrodologia SCRUM, Backlog de produto e backlog de sprint é u
 
 SPRINT - Está ligado a metodologia SCRUM, é uma interpretação do backlog do produto e contém tarefas concretas que serão realizadas durante o próximo sprint para implementar alguns dos itens principais no backlog do produto.
 
-BSD -BSD (Berkeley Software Distribution) é um Sistema Operacional UNIX desenvolvido pela Universidade de Berkeley, não é um único Sistema Operacional mas sim uma larga família derivada do original.
+BSD - (Berkeley Software Distribution) é um Sistema Operacional UNIX desenvolvido pela Universidade de Berkeley, não é um único Sistema Operacional mas sim uma larga família derivada do original.
+
+BSD LICENSE - É uma licença de código aberto inicialmente utilizada nos sistemas operacionais do tipo Berkeley Software Distribution (um sistema derivado do Unix). Apesar dela ter sido criada para os sistemas BSD, atualmente vários outros sistemas são distribuídos sob esta licença.
