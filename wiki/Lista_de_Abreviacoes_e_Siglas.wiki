@@ -35,12 +35,18 @@ MYSQL  - Sistema de Gerenciamento de Banco de Dados (SGBD), criado na Suécia po
 
 DLL    - Dynamic-link library ou Biblioteca de ligação dinâmica, é a implementação feita pela Microsoft para o conceito de bibliotecas compartilhadas inicialmente nos sistemas operacionais Microsoft Windows e OS/2.
 
-HTTP   -
-FTP    -
-SMTP   -
-GIMP   -
-IMAP   -
-POP    -
+HTTP   - Hypertext Transfer Protocol ou o acrônimo HTTP; do inglês, Protocolo de Transferência de Hipertexto, é um protocolo de comunicação na camada de aplicação segundo o Modelo OSI é utilizado para sistemas de informação de hipermedia distribuídos e colaborativos.
+
+FTP    - File Transfer Protocol ou Protocolo de Transferência de Arquivos, é uma forma bastante rápida e versátil de transferir arquivos é também conhecidos como ficheiros, sendo uma das mais usadas formas de transferência de arquivos na Internet.
+
+SMTP   - Simple Mail Transfer Protocol,é o protocolo padrão para envio de e-mails através da Internet.
+
+GIMP   - GNU Image Manipulation Program, é um programa de código aberto voltado principalmente para criação e edição de imagens raster, e em menor escala também para desenho vetorial.
+
+IMAP   - Internet Message Access Protocol, é um protocolo de gerenciamento de correio eletrônico superior em recursos ao POP3.
+
+POP3    -  Protocolo (POP) que a maioria dos provedores oferece aos seus assinantes.
+
 XML-RPC -
 COM    -
 QT     -
