@@ -1,33 +1,36 @@
-CAFADE - Computer-assisted Formative Assessment in Distance Education
+CAFADE - Computer-Assisted Formative Assessment in Distance Education
 
-CAA    - Computer-assisted Assessment 
+CAA    - Computer-Assisted Assessment 
          Centro que oferece uma referência nacional de aconselhamento e apoio para aqueles que pretendam utilizar os computadores para a avaliação no ensino e educação
          http://www.glow.ac.uk - Desenvolvimento de um código de práticas para a entrega de exames informatizado
          http://www.cetis.ac.uk - Questão de Teste de Interoperabilidade do grupo de trabalho
 
-CAAA   - computer-assisted assisted assessment
+CAAA   - Computer-Assisted Assisted Assessment
 
-CAL    - computer-aided learning
+CAL    - Computer-Aided Learning
 
-CAT    - Computer adaptive test(s)
+CAT    - Computer Adaptive Test(s)
 
-CBA    - Computer-based assessment
+CBA    - Computer-Based Assessment
 
-CMC    - Computer-mediated communication
+CMC    - Computer-Mediated Communication
 
 IT     - Information Technology
 
-MCQs   - multiple-choice questions
+MCQs   - Multiple-Choice Questions
 
-MRQ    - multiple-response questions
+MRQ    - Multiple-Response Questions
 
-QTI    - question and Test Interoperability
+QTI    - Question and Test Interoperability
 
-VLE    - virtual learning evironments
+VLE    - Virtual Learning Evironments
 
-PYTHON -
-SCRUM  -
-SQL    -
+PYTHON - Python é uma linguagem de programação de alto nível, interpretada,         imperativa, orientada a objetos, de tipagem dinâmica e forte. Python teve a sua origem no grupo humorístico britânico "Monty Python", criador do programa "Monty Python's Flying Circus".
+
+SCRUM  - Método ágil para Gerenciamento de Projetos. A designação SCRUM vem do Rugby e significa o reinício do jogo em certos casos.
+
+SQL    - Structured Query Language, ou Linguagem de Consulta Estruturada.
+
 MYSQL  -
 DLL    -
 HTTP   -
