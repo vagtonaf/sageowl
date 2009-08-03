@@ -21,6 +21,8 @@ http://www.python.org.br/wiki
 Instala o python 2.6
  
 http://www.python.org/ftp/python/2.6.2/python-2.6.2.msi
+
+(Python 2.6.x) http://media.djangobrasil.org/djangobrasil/downloads/Django-1.0_final.win32.py26.exe
  
 O Django (tem que descompactar e executar o setup pelo cmd)
  
