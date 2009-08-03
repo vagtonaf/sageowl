@@ -6,7 +6,9 @@ BSD - (Berkeley Software Distribution) é um Sistema Operacional UNIX desenvolvi
 
 BSD LICENSE - É uma licença de código aberto inicialmente utilizada nos sistemas operacionais do tipo Berkeley Software Distribution (um sistema derivado do Unix). Apesar dela ter sido criada para os sistemas BSD, atualmente vários outros sistemas são distribuídos sob esta licença.
 
-CAA - Computer-Assisted Assessment Centro que oferece uma referência nacional de aconselhamento e apoio para aqueles que pretendam utilizar os computadores para a avaliação no ensino e educação http://www.glow.ac.uk - Desenvolvimento de um código de práticas para a entrega de exames informatizado http://www.cetis.ac.uk - Questão de Teste de Interoperabilidade do grupo de trabalho. CAAA - Computer-Assisted Assisted Assessment.
+CAA - Computer-Assisted Assessment Centro que oferece uma referência nacional de aconselhamento e apoio para aqueles que pretendam utilizar os computadores para a avaliação no ensino e educação http://www.glow.ac.uk - Desenvolvimento de um código de práticas para a entrega de exames informatizado http://www.cetis.ac.uk - Questão de Teste de Interoperabilidade do grupo de trabalho. 
+
+CAAA - Computer-Assisted Assisted Assessment.
 
 CAFADE - Computer-Assisted Formative Assessment in Distance Education.
 
@@ -69,4 +71,3 @@ WIKIPÉDIA - Enciclopédia multilíngue online livre na web, colaborativa, ou se
 XML-RPC - Protocolo de RPC codificado em XML. É um protocolo simples, definido com poucas linhas de códigos em oposição com a maioria dos sistemas de RPC. RPC - Chamada Remota de Procedimento, acrônimo de Remote Procedure Call. XML - eXtensible Markup Language é uma recomendação da W3C para gerar linguagens de marcação para necessidades especiais.
 
 YAHOO - Empresa norte-americana de serviços de Internet com a missão de ser "o serviço de Internet global mais essencial para consumidores e negócios".
-
