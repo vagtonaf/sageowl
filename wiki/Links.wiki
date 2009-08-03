@@ -51,6 +51,8 @@ E instala o plugin do pydev no seu eclipse, para não ter que ficar mechendo no 
  
 http://pydev.sourceforge.net/download.html
 
+http://sourceforge.net/projects/pydev/files/
+
 Poe o Python.exe no path e executa isso para criar um projeto :
 
 python django-admin.py startproject meusite
