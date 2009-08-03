@@ -24,6 +24,8 @@ Instalação do Django
 
 Existem várias formas para instalar o Django. A que eu mais gosto e recomendo é através do tarball. Para isso, vá ao site[3] do django e baixe o arquivo .tar.gz. Então descompacte no caminho desejado e execute:
 
+Link de instalção http://media.djangobrasil.org/djangobrasil/downloads/Django-1.0_final.win32.py24.exe
+
 $sudo python2.4 setup.py install
 
 Recomendo fortemente a utilização do python2.4 com o django. Esta versão do interpretador não vem por padrão no Ubuntu 9.04.
