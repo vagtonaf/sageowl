@@ -5,9 +5,13 @@ Após a intalação do Django, ao executar o comando de exemplo abaixo, criaremo
   djangoadmin.py startprojet meuprojeto
 Obteremos como resultado quatro arquivos criados em uma pasta de arquivos que são descritos a seguir:
 1) "__init__.py"  é um arquivo que mostra ao Python que está pasta de arquivos é considerada como um pacote. Ele é um arquivo vazio e ele é criado tanto projetos como aplicações que veremos logo a seguir.
-2) "manage.py" permite com que o desenvolvedor interjá com o projeto de várias maneiras diferentes, atraves de um utilitário de linha de comando
-3) "settings.py" é onde se encontram as configurações e definições referentes ao projeto
+
+2) "manage.py" permite com que o desenvolvedor interjá com o projeto de várias maneiras diferentes, atraves de um utilitário de linha de comando.
+
+3) "settings.py" é onde se encontram as configurações e definições referentes ao projeto.
+
 4) "urls.py" concentra as declarações das URLs do projeto, contém uma tabela de conteúdos dos sites utilizados pelo Django.
+
 Criaremos agora uma aplicação de nome "contatos" com o seguinte comando:
   python manage.py startapp contatos
 É importante observar que devemos executar o comando dentro da pasta do projeto para que ao ser executado ele crie uma pasta com o nome da aplicação contendo mais três arquivos que são o "__ini__.py" é os arquivos "models.py" e "views.py" que são respectivamente, primeiro o responsável pelos dados da aplicação e segundo o responsável pela interface da aplicação.
