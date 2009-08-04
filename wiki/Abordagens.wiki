@@ -1,5 +1,5 @@
 Tópicos tratados, ver cada item no Wiki
-||	Lista de Abreviações e Siglas	||	Executando	||		||		||
+||	Lista de Abreviações e Siglas	||	vagton -exec	||		||		||
 ||	Introdução	||	ok	||		||		||
 ||	Contexto	||	ok	||		||		||
 ||		||	O Papel da Avaliação na Aprendizagem	||	ok	||		||
@@ -81,8 +81,8 @@ Tópicos tratados, ver cada item no Wiki
 ||		||	Procedimento de Implantação em servidor	||		||		||
 ||		||	Instalação 	||		||		||
 ||		||	Apache	||		||		||
-||		||	Python	||	ok	||		||
-||		||	Django	||	ok	||		||
+||		||	Python	|| vagton-ok	||		||
+||		||	Django	|| vagton-ok	||		||
 ||		||	MySqlDB	||		||		||
 ||		||	Política de Backup	||		||		||
 ||		||	Ambiente Operacional	||		||		||
