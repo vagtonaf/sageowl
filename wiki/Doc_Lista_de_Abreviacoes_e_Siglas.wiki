@@ -18,6 +18,12 @@ CAT - Computer Adaptive Test(s).
 
 CBA - Computer-Based Assessment CMC - Computer-Mediated Communication.
 
+CRUD - Create, Read, Update and Delete 
+
+DAO - Data Access Object 
+
+DI - Dependency Injection 
+
 DJANGO - Framework para desenvolvimento rápido para web, escrito em Python, que utiliza o padrão MVC (Model-View-Controller).
 
 DLL - Dynamic-link library ou Biblioteca de ligação dinâmica, é a implementação feita pela Microsoft para o conceito de bibliotecas compartilhadas inicialmente nos sistemas operacionais Microsoft Windows e OS/2.
@@ -28,7 +34,7 @@ FTP - File Transfer Protocol ou Protocolo de Transferência de Arquivos, é uma 
 
 GOOGLE - Empresa desenvolvedora de serviços online, sediada nos Estados Unidos.
 
-HTTP - Hypertext Transfer Protocol ou o acrônimo HTTP; do inglês, Protocolo de Transferência de Hipertexto, é um protocolo de comunicação na camada de aplicação segundo o Modelo OSI é utilizado para sistemas de informação de hipermedia distribuídos e colaborativos.
+HTTP - HyperText Markup Language, protocolo de comunicação na camada de aplicação segundo o Modelo OSI é utilizado para sistemas de informação de hipermedia distribuídos e colaborativos.
 
 IMAP - Internet Message Access Protocol, é um protocolo de gerenciamento de correio eletrônico superior em recursos ao POP3. POP3 - Protocolo (POP) que a maioria dos provedores oferece aos seus assinantes.
 
@@ -39,6 +45,8 @@ IT - Information Technology.
 MCQs - Multiple-Choice Questions.
 
 MRQ - Multiple-Response Questions.
+
+MVC - Model, View and Controller.
 
 MYSQL - Sistema de Gerenciamento de Banco de Dados (SGBD), criado na Suécia por dois suecos e um finlandês: David Axmark, Allan Larsson e Michael "Monty" Widenius, a Oracle é atualmente a detentora dos direitos do MYSQL, está que comprou a Sun Microsystems, antiga dona o produto.
 
@@ -56,7 +64,11 @@ SMTP - Simple Mail Transfer Protocol,é o protocolo padrão para envio de e-mail
 
 SPRINT - Está ligado a metodologia SCRUM, é uma interpretação do backlog do produto e contém tarefas concretas que serão realizadas durante o próximo sprint para implementar alguns dos itens principais no backlog do produto.
 
+SQL - Structured Query Language.
+
 UNIX - Sistema operativo ou sistema operacional portátil ou portável, multitarefa e multiutilizador ou multiusuário, originalmente criado por Ken Thompson, que trabalhava nos Laboratórios Bell Labs da AT&T. DELPHI - É um IDE, ambiente integrado para desenvolvimento de software, produzida antigamente pela Borland Software Corporation atualmente produzida pela empresa Embarcadero.
+
+UML - Unified Modeling Language.
 
 VLE - Virtual Learning Evironments.
 
@@ -67,6 +79,8 @@ WIGETS - componente de uma interface gráfica do utilizador (GUI), o que inclui 
 WIKI - Software colaborativo que permite a edição coletiva dos documentos usando um sistema que não necessita que o conteúdo tenha que ser revisto antes da sua publicação. BACKLOG - Para a Metrodologia SCRUM, Backlog de produto e backlog de sprint é uma lista de itens priorizados a serem desenvolvidos para um software.
 
 WIKIPÉDIA - Enciclopédia multilíngue online livre na web, colaborativa, ou seja, escrita internacionalmente por várias pessoas comuns de diversas regiões do mundo, todas elas voluntárias.
+
+XML - eXtensible Markup Language 
 
 XML-RPC - Protocolo de RPC codificado em XML. É um protocolo simples, definido com poucas linhas de códigos em oposição com a maioria dos sistemas de RPC. RPC - Chamada Remota de Procedimento, acrônimo de Remote Procedure Call. XML - eXtensible Markup Language é uma recomendação da W3C para gerar linguagens de marcação para necessidades especiais.
 
