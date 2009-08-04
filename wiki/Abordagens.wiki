@@ -26,7 +26,7 @@ Tópicos tratados, ver cada item no Wiki
 ||		||		||	Método	||	ok	||
 ||		||		||	Benefícios do SCRUM para o cliente	||ok		||
 ||	Técnica de Versionamento (SNV)	||	 #Vitor ou Jose Roberto - descrever esse assunto	||		||		||
-||	Metodologia de construção (MVC)	||		||		||		||
+||	Metodologia de construção (MVC)	||   vagton 	||		||		||
 ||	Metodologia de implementação	||		||		||		||
 ||	Metodologia de implantação para um projeto 	||		||		||		||
 ||	Levantamento de Requisitos	||		||		||		||
