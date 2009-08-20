@@ -501,3 +501,13 @@ Como usar o Eclipse para desenvolver em Python, especialmente Zope/Plone. Rafael
 O framework Django. Eduardo Steiner. PET Computação. UFSC. 2008. Disponível em: < http://pet.inf.ufsc.br/files/django.pdf >. Acesso em 18, jul, 2009. 
 
 Django, Aptana, Gimp, Inkscape. Rafael Campos de Bastiani. Caxias do Sul. RS. RFDev.org. 2008. Disponível em: <http://rfdev.org>. Acesso em 20, jul, 2009. 
+
+Livro: Agile Software Development with Scrum (Series in Agile Software Development) (Paperback) by Ken Schwaber Ken Schwaber (Author) 
+
+Scrum. Vinícius Manhães Teles. Improve It. 2009. Disponível em: <http://improveit.com.br/scrum>. Acesso em 6, jul, 2009. 
+
+Gerenciamento de Projetos Web. Fabio Marques. iMasters. 2007. Disponível em: <http://imasters.uol.com.br/artigo/7240/gerencia/gerenciamento_de_projetos_web_-_vamos_de_scrum >. Acesso em 6, jul, 2009. 
+
+Scrum. WikPédia. 2009. Disponível em: <http://pt.wikipedia.org/wiki/Scrum >. Acesso em 6, jul, 2009. 
+
+Artigo Gerenciamento de Projetos Web 02. Marcia Araujo Coelho. iMasters. 2007. Disponível em: <http://www.abramti.org.br/modules/news/makepdf.php?storyid=114 >. Acesso em 8, jul, 2009. 
