@@ -19,6 +19,10 @@ http://www.technicalbard.com/files/MySQL-python-1.2.2.win32-py2.6.exe
 
 Utilizaremos nesse projeto um sistema de controle de versão desenhado especificamente para ser um substituto moderno do CVS, que se considera ter algumas limitações.
 http://pt.wikipedia.org/wiki/Subversion 
+Instalação do SVN Repositorio 
+http://subclipse.tigris.org/install.html foi usado essa url para a instalação http://subclipse.tigris.org/update_1.6.x instalar no eclipse criar new repository location referenciar a url https://sageowl.googlecode.com/svn/trunk/ para direcionar o SVN para o projeto no Google Code, onde escolhemos para abrigar a aplicação.
+
+para o seu login no gmail a senha e conseguida via esse link: http://code.google.com/hosting/settings 
 utilizaremos o command do prompt (cmd) do Windows, escolhemos essa plataforma de sistema operacional para o desenvolvimento.
  
 O Django (tem que descompactar e executar o setup pelo cmd) MysqlDb? para conectar o python ao mysql 
