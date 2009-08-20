@@ -1,6 +1,6 @@
 Instalação do ambiente de trabalho:  ##Melhorar esse texto##
 
-Com um grande potêncial a parceria Eclipse e Python promete um grande sucesso, começando com o Eclipse que tem grande número de plugins disponíveis, para trabalhar com a linguagem Python e utilizando o plugin Pydev, se mostra muito versátil. Como instalar esse plugin de forma bem prática e muito fácil.
+Com um grande potêncial a parceria Eclipse e Python promete um grande sucesso, começando com o Eclipse que tem grande número de plugins disponíveis, para trabalhar com a linguagem Python e utilizando o plugin Pydev, se mostra muito versátil. Como instalar esse plugin de forma bem prática e muito fácil?. Vamos ver logo abaixo:
 
 Começamos com o Eclipse:
 É preciso que você esteja com seu Eclipse previamente instalado, eu recomendo utilizar a versão 3.4.0, é a que estou usando para o desenvolvimento, ela é compatível com a última versão do Pydev e Django.
