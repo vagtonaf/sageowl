@@ -79,7 +79,7 @@ Tópicos tratados, ver cada item no Wiki
 ||	Segurança	||		||		||		||
 ||	Projeto de Implantação	||		||		||		||
 ||		||	Procedimento de Implantação em servidor	||		||		||
-||		||	Instalação 	||		||		||
+||		||	Instalação 	||	vagton -Executando	||		||
 ||		||	Apache	||		||		||
 ||		||	Python	|| vagton-ok	||		||
 ||		||	Django	|| vagton-ok	||		||
