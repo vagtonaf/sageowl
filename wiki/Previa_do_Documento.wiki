@@ -522,4 +522,4 @@ Scrum. WikPédia. 2009. Disponível em: <http://pt.wikipedia.org/wiki/Scrum >. A
 
 Artigo Gerenciamento de Projetos Web 02. Marcia Araujo Coelho. iMasters. 2007. Disponível em: <http://www.abramti.org.br/modules/news/makepdf.php?storyid=114 >. Acesso em 8, jul, 2009. 
 
-Links relacionados http://pydev.sourceforge.net/ http://www.eclipse.org/ http://www.python.org/ 
+Artigo Trabalho Python no Eclipse com o Pydev. Allisson Azevedo. gerenciamento de redes e desenvolvimento web. 2009. Acesso em 20, ago, 2009.
