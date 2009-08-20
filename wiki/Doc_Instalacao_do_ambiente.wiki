@@ -1,4 +1,4 @@
-Instalação do ambiente de trabalho:
+Instalação do ambiente de trabalho:  ##Melhorar esse texto##
 
 Com um grande potêncial a pareceria Eclipse e Python promete um grande sucesso, começando co o Eclipse que com o grande número de plugins disponíveis, para trabalhar com a linguagem Python e utilizando o plugin Pydev, se mostra muito versátil. Como instalar esse plugin de forma bem prática e muito fácil.
 
