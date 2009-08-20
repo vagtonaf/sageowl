@@ -466,9 +466,8 @@ Projeto de Interface Gráfica
  Layout das telas  Jose Roberto   
 Segurança     
 Projeto de Implantação     
- Procedimento de Implantação em servidor    
-
- Instalação do ambiente de desenvolvimento
+##################################
+ Procedimento de Implantação em servidor e instalação do ambiente de desenvolvimento
 
  Com um grande potêncial a parceria Eclipse e Python promete um grande sucesso, começando com o Eclipse que tem grande número de plugins disponíveis, para trabalhar com a linguagem Python e utilizando o plugin Pydev, se mostra muito versátil. Como instalar esse plugin de forma bem prática e muito fácil?. Vamos ver logo abaixo: 
 
