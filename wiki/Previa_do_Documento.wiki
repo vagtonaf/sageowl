@@ -478,14 +478,8 @@ Projeto de Implantação
 Referências
 
  
+Referências Disponível em: <http://www.python.org.br>. Acesso em: 28,jul,2009. 
 
-Disponível em: <http://www.python.org.br>. Acesso em: 28,jul,2009. 
-
-
-Disponível em: <http://www.pythonbrasil.com.br/moin.cgi/PerguntasFrequentes/SobrePython>. 
-
-Acesso em: 28,jul,2009.  
-
+Disponível em: <http://www.pythonbrasil.com.br/moin.cgi/PerguntasFrequentes/SobrePython>. Acesso em: 28,jul,2009. 
 
 Disponível em: <http://opencg.cerberus1746.site90.com/?p=21>. Acesso em: 17,jul,2009. 
- 
