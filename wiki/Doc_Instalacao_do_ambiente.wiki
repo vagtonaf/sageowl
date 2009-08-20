@@ -57,6 +57,20 @@ pronto.
 
 ### ver referências de telas de instalação no link: http://www.plugmasters.com.br/sys/materias/716/1/Python-no-Eclipse-com-o-Pydev ####
 
+paços:
+1) No Eclipse, selecione o menu help -> softwares updates -> find and install
+2) Selecione Search for new features to install e clique em next
+4) Na próxima tela clique no botão New Remote Site e preencha de acordo com a figura abaixo (Name: Pydev, URL: http://pydev.sourceforge.net/updates/)
+5) Feito isso selecione apenas o Pydev e clique em finish
+6) Selecione apenas o Pydev e clique em Next
+7) Aceite a licença e clique em Next
+8) Clique em finish para confirmar a instalação do plugin
+9) O Eclipse vai fazer o download dos arquivos necessários para instalação do Pydev
+10) Ao final do download a seguinte tela vai ser exibida, confirme com Install All
+11) Depois de instalado ele vai pedir para reiniciar o Eclipse, confirme a operação
+12) Selecione o menu Window -> Preference
+13) Selecione Interpreter - Python e clique no botão New da configuração de Python interpreters
+
 Links relacionados
 http://pydev.sourceforge.net/ 
 http://www.eclipse.org/ 
