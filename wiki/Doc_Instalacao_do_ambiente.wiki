@@ -5,13 +5,15 @@ Com um grande potêncial a parceria Eclipse e Python promete um grande sucesso, 
 Começamos com o Eclipse:
 É preciso que você esteja com seu Eclipse previamente instalado, eu recomendo utilizar a versão 3.4.0, é a que estou usando para o desenvolvimento, ela é compatível com a última versão do Python, Pydev e Django.
 
+Para que o Plugin para o Eclipse para a plataforma Python é o Pydev.
+
 Podemos encontrar as plataformas acima nos links descritos abaixo:
 http://www.djangoproject.com/ 
 Home page oficial do Python: http://www.python.org.br/wiki 
    Primeiramente vamos instalar o python:
 Está Instalação é referecia para a utilização da linguagem python versão 2.6:  http://www.python.org/ftp/python/2.6.2/python-2.6.2.msi 
 
-Precisamos instalar o FrameWork Django no Python para que possa nos auxiliar na construção do site mais rapdamente:
+Precisamos instalar o FrameWork Django no Python para que possa nos auxiliar na construção dos sites mais rapidamente:
 (Python 2.6.x): http://media.djangobrasil.org/djangobrasil/downloads/Django-1.0_final.win32.py26.exe 
 
 Instalação do plugin do MySql no Python para que o python possa se conectar ao repositorio de dados que vamos utilizar nesse projeto, existem inumeros plugins para diversos bancos de dados existentes no mercado, como o Sql Server e Oracle
@@ -51,3 +53,6 @@ python manage.py runserver
 ai é só acessar pelo IE ou firefox http://127.0.0.1:8000/ 
 
 pronto. 
+
+
+### ver referências de telas de instalação no link: http://www.plugmasters.com.br/sys/materias/716/1/Python-no-Eclipse-com-o-Pydev ####
