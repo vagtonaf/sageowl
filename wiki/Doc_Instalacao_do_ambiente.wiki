@@ -56,3 +56,8 @@ pronto.
 
 
 ### ver referências de telas de instalação no link: http://www.plugmasters.com.br/sys/materias/716/1/Python-no-Eclipse-com-o-Pydev ####
+
+Links relacionados
+http://pydev.sourceforge.net/ 
+http://www.eclipse.org/ 
+http://www.python.org/ 
