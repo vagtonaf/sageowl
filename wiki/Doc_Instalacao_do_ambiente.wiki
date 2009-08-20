@@ -70,13 +70,13 @@ paços da instalação do Python no Eclipse com o Pydev:
 10) Depois de instalado ele vai pedir para reiniciar o Eclipse, confirme a operação
 11) Selecione o menu Window -> Preference
 12) Selecione Interpreter - Python e clique no botão New da configuração de Python interpreters
-13) Selecione a localização do interpretador Python que está instalado em sua máquina, como eu estou utilizando o Linux eu apontarei para /usr/bin/python. No Windows basta encontrar o executável python.exe (geralmente ele fica em C:\Python24). Depois de selecionar o interpretador a seguinte tela será exibida, confirme a seleção sem alterações
+13) Selecione a localização do interpretador Python que está instalado em sua máquina, como eu estou utilizando o Windows eu apontarei para c:\python26. No Windows basta encontrar o executável python.exe (geralmente ele fica em C:\Python26). Depois de selecionar o interpretador a seguinte tela será exibida, confirme a seleção sem alterações
 14) Mais um vez confirme clicando no botão Ok
 15) O Pydev já está pronto para ser utilizado, crie um novo projeto selecionando o menu New -> Pydev Project
 16) Preencha as opções conforme a figura abaixo e clique em finish
 17) Já com seu projeto aberto, selecione a pasta src e crie um novo arquivo
 18) Escolhe teste.py para o nome do seu novo arquivo e clique em finish
-19) Agora você pode programar em Python utilizando o Eclipse, veja um exemplo do recurso de autocompletar utilizando um import do datetime
+19) Agora você pode programar em Python utilizando o Eclipse, veja um exemplo do recurso de autocompletar utilizando um "import do datetime" é ele irá responder ao rodar que tem 0 erros, isso informa que está tudo funcionando corretamente.
 
 Fonte de pesquisa: Trabalho Python no Eclipse com o Pydev - Allisson Azevedo trabalha com informática há 6 anos, atua nas áreas de gerenciamento de redes e desenvolvimento web. 
 consulta em 20/08/2009 as 0:44hs
