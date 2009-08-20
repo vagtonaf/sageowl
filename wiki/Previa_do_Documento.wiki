@@ -414,6 +414,66 @@ cout << "Hello Wolrd";
 
 }  
 
+############# topicos a ser abordados
+Metodologia de implementação     
+Metodologia de implantação para um projeto     
+Levantamento de Requisitos     
+ Requisitos Não-Funcionais    
+  RNF001 - Plataforma   
+  RNF002 - Ambiente   
+  RNF003 - Linguagem de Programação   
+ Requisitos Funcionais    
+  RF001 - Cadastro de Classe de (taxonomia)   
+  RF002 - Cadastro de Atributo   
+  RF003 - Cadastro de Grupo de Usuário   
+  RF004 - Cadastro de usuários   
+  RF005 - Definir Permissões   
+  RF006 - Visualizar Histórico   
+  RF007 - Pesquisa Simples   
+  RF008 - Pesquisa composta   
+  RF009 - Incluir instituição   
+  RF010 - Visualizar das questões   
+  RF011 - Incluir questão   
+  RF012 - Check-Out   
+  RF013 - Check-In   
+  RF014 - Responder Questão   
+  RF015 - Excluir questão   
+  RF016 - Postar Resultados   
+ Regras de Negócio    
+  RN01 - Check-Out   
+  RN02 - Check-In   
+Diagrama de Caso de Uso (UML)     
+ Descrições do Caso de Uso    
+ Diagrama de Classes    
+  Diagrama de Classes Conceitual  #Protótipo inicial Vagton#  
+  Diagrama de Classes Implementado   
+  Dicionário de Classes   
+  Diagramas de Sequência   
+Projeto do Banco de Dados     
+ Projeto Lógico    
+ Modelo de Classes sqbd    
+ Esquema textual    
+ Projeto Físico    
+  Nomenclatura   
+  Descrição das Tabelas   
+  Script de criação do banco de dados   
+Descrição de todos os módulos     
+Desenvolvimento     
+ Protótipo da Aplicação    
+Projeto de Interface Gráfica     
+ Taxionomia da Hierarquia de Telas  Jose Roberto   
+ Padrões e convenções utilizados nos desenhos das telas  Jose Roberto   
+ Layout das telas  Jose Roberto   
+Segurança     
+Projeto de Implantação     
+ Procedimento de Implantação em servidor    
+ Instalação  vagton -Executando  
+###################
+
+
+
+
+
 
 Referências
 
