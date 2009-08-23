@@ -1,0 +1,138 @@
+Quando abordamos anteriormente a taxinomia de Bloom de 1956, notamos que ela foi feita com pesquisas e conceitos abordados naquela época e naturalmente foi usada e aprimorada. Podemos sitar os trabalhos de Dr. Lorin Anderson, aluno de Bloom, em meados de 1999, este que publicou um artigo que aperfeiçoava o metodo, Os educadores, atravez de estudo, aprenderam muito mais sobre como os alunos atuam na aprendizagem e como os professores ensinam. atravez dessa pesquisa reconheceram que a aprendizagem e o ensino abordam muito mais do que o raciocínio simples. Descobriram que esse raciocínio tinham relação direta com as crenças e os sentimento dos professores e alunos estudados e que o ambiente em sala de aula, devido as relações sócio-culturais, atuavam diretamente no comportamento deles. 
+Devido a esse conceito foi criada a Taxonomia de Bloom revisada que considera uma gama maior de fatores que afetam a aprendizagem e o ensino, tenta corrigir alguns problemas da taxonomia original. A taxionomia revisada diferencia o "saber como" do "saber o quê", 
+procedimentos para resolver problemas e conteúdo do raciocínio respectivamente.
+
+Diferentemente da versão de 1956, a taxonomia revisada diferencia “saber o quê” (o conteúdo do raciocínio) de “saber como” (os procedimentos para resolver problemas).
+A Dimensão do Conhecimento é o “saber o quê”. Ela se divide em quatro categorias: factual, conceitual, procedimental e metacognitiva. O conhecimento factual inclui elementos isolados de informação, como definições de vocabulário e conhecimento de detalhes específicos. O conhecimento conceitual consiste em sistemas de informação, como classificações e categorias.
+O conhecimento procedimental (saber como fazer) inclui algoritmos, heurística ou método empírico, técnicas e métodos, bem como o conhecimento sobre quando usar esses procedimentos. O conhecimento metacognitivo (refletir sobre o que se sabe) refere-se ao conhecimento dos processos cognitivos e das informações sobre como manipular esses processos de forma eficaz.
+A dimensão Processo Cognitivo da Taxonomia de Bloom revisada, como na versão original, possui seis capacitações. Da mais simples à mais complexa, são elas: lembrar, entender, aplicar, analisar, avaliar e criar.
+Lembrar
+Lembrar consiste em reconhecer e recordar informações importantes da memória de longa duração.
+Entender
+Entender é a capacidade de fazer sua própria interpretação do material educacional, como leituras e explicações do professor. As subcapacitações desse processo incluem interpretação, exemplificação, classificação, resumo, conclusão, comparação e explanação.
+Aplicar
+O terceiro processo, aplicação, refere-se a usar o procedimento aprendido em uma situação familiar ou nova.
+Analisar
+O processo seguinte é a análise, que consiste em dividir o conhecimento em partes e pensar como essas partes se relacionam com a estrutura geral. A análise dos alunos é feita por meio de diferenciação, organização e atribuição.
+Avaliar
+A avaliação, que é o item mais avançado da taxonomia original, é o quinto dos seis processos da versão revisada. Ela engloba verificação e crítica.
+Criar
+Criação, um processo que não fazia parte da primeira taxonomia, é o principal componente da nova versão. Essa capacitação envolve reunir elementos para dar origem a algo novo. Para conseguir criar tarefas, os alunos geram, planejam e produzem.
+Segundo esta taxonomia, cada nível de conhecimento pode corresponder a um nível de processo cognitivo, portanto o aluno pode lembrar um conhecimento factual ou procedimental, entender o conhecimento conceitual ou metacognitivo ou analisar o conhecimento metacognitivo ou factual. Segundo Anderson e seus colegas, “O ensino significativo proporciona aos alunos o conhecimento e os processos cognitivos necessários para uma solução de problemas.” Os gráficos a seguir contêm exemplos de cada capacitação das dimensões Cognitiva e Conhecimento.
+Dimensões dos processos cognitivos
+Processos cognitivos
+Exemplos
+Lembrar – Produzir a informação certa a partir da memória
+Reconhecer
+• Identificar sapos em um diagrama de tipos diferentes de anfíbios.
+• Encontrar um triângulo isósceles na vizinhança.
+• Responder perguntas de verdadeiro-falso ou múltipla escolha.
+Relembrar
+• Citar três escritoras do século 19.
+• Descrever problemas de multiplicação.
+• Reproduzir a fórmula química do tetracloreto de carbono.
+Entender – Dar um significado ao material ou experiências educacionais
+Interpretar
+• Converter o enunciado de um problema em uma equação de álgebra.
+• Desenhar um diagrama do aparelho digestivo.
+• Parafrasear o discurso de posse do segundo mandato do Presidente da República
+Exemplificar
+• Desenhar um paralelograma.
+• Encontrar um exemplo de estilo de redação de fluxo de consciência.
+• Citar um mamífero que vive em nossa região.
+Classificar
+• Separar números pares de ímpares.
+• Listar os tipos de governo existentes nas nações africanas modernas.
+• Agrupar animais nativos em suas devidas espécies.
+Resumir
+• Dar um título para uma passagem curta.
+• Listar os pontos principais relacionados à pena capital que o site promove.
+Concluir
+• Ler um trecho de um diálogo entre dois personagens e tirar conclusões sobre seu relacionamento passado.
+• Descobrir o significado de um termo desconhecido a partir do contexto.
+• Analisar uma série de números e prever qual será o próximo.
+Comparar
+• Explicar de que modo o coração se assemelha a uma bomba.
+• Escrever sobre uma experiência que você teve semelhante às dos pioneiros rumo ao oeste.
+• Usar um diagrama de Venn para demonstrar as semelhanças e diferenças entre dois livros de Charles Dickens.
+Explicar
+• Desenhar um diagrama para explicar como a pressão do ar afeta o clima.
+• Apresentar detalhes que justifiquem por que a Revolução Francesa aconteceu, quando e como.
+• Descrever como as taxas de juros afetam a economia.
+Aplicação – Usar um procedimento
+Executar
+• Adicionar uma coluna de números de dois dígitos.
+• Ler em voz alta uma passagem em outro idioma.
+• Lançar uma bola de baseball.
+Implementar
+• Projetar uma experiência para ver como as plantas crescem em tipos diferentes de solo.
+• Fazer a revisão de parte de um texto.
+• Preparar um orçamento.
+Análise – Dividir um conceito em partes e descrever como elas se relacionam com o todo
+Diferenciar
+• Listar informações importantes do enunciado de um problema matemático e eliminar as informações irrelevantes.
+• Desenhar um diagrama mostrando as personagens principal e coadjuvantes de um romance.
+Organizar
+• Separar os livros da biblioteca da sala de aula em categorias.
+• Fazer um gráfico de dispositivos figurativos usados com freqüência e explicar seu efeito.
+• Fazer um diagrama mostrando como as plantas e os animais da vizinhança interagem entre si.
+Atribuir
+• Ler cartas ao editor para determinar os pontos de vista de seus autores sobre uma questão local.
+• Determinar a motivação de um personagem em um romance ou conto.
+• Analisar boletins de candidatos políticos e criar hipóteses sobre suas perspectivas sobre os problemas.
+Avaliação – Fazer julgamentos com base em critérios e padrões
+Verificar
+• Participar em um grupo de redação, fazer comentários aos colegas sobre organização e lógica de argumentos.
+• Ouvir um discurso político e fazer uma lista de quaisquer contradições encontradas no discurso.
+• Revisar um plano de projeto para ver se todas as etapas necessárias foram concluídas.
+Criticar
+• Julgar se um projeto satisfaz bem os critérios de uma rubrica.
+• Escolher o melhor método para resolver um problema matemático complexo.
+• Julgar a validade dos argumentos a favor e contra a astrologia.
+Criação – Reunir dados para formar algo novo ou reconhecer os componentes de uma nova estrutura.
+Gerar
+• Dada uma lista de critérios, listar algumas opções para melhorar as relações raciais na escola.
+• Gerar diversas hipóteses científicas para explicar por que as plantas precisam da luz solar.
+• Propor um conjunto de alternativas para reduzir a dependência de combustíveis fósseis que atendam às questões econômicas e ambientais.
+• Apresentar hipóteses alternativas com base nos critérios.
+Planejar
+• Criar um storyboard para uma apresentação multimídia sobre insetos.
+• Criar um documento de pesquisa sobre as visões de Mark Twain sobre religião.
+• Designar um estudo científico para testar o efeito de tipos diferentes de música na produção de ovos das galinhas.
+Produzir
+• Redigir um diário a partir do ponto de vista de um soldado confederado ou da união.
+• Construir um habitat para aves aquáticas locais.
+• Fazer uma peça com base em um capítulo de um romance que você esteja lendo.
+A dimensão Conhecimento
+Conhecimento factual – Informações básicas
+Conhecimento de terminologia
+Termos do vocabulário, símbolos matemáticos, anotação musical, alfabeto
+Conhecimento de detalhes e elementos específicos
+Componentes da pirâmide alimentar, nomes de representantes do congresso, principais batalhas da 2ª Guerra Mundial
+Conhecimento conceitual – As relações entre as partes de uma estrutura maior que as fazem funcionar em conjunto
+Conhecimento de classificações e categorias
+Espécies de animais, tipos diferentes de argumentos, eras geológicas
+Conhecimento de princípios e generalizações
+Tipos de conflito na literatura, lei do movimento de Newton, princípios da democracia
+Conhecimento de teorias, modelos e estruturas
+Teoria da evolução, teorias econômicas, modelos de DNA
+Conhecimento procedimental – Como fazer algo
+Conhecimento de habilidades específicas do assunto e algoritmos
+Procedimento para resolver equações quadráticas, misturar cores para pintura a óleo, saque no vôlei
+Conhecimento de técnicas e métodos específicos do assunto
+Crítica literária, análise de documentos históricos, métodos para resolução de problemas matemáticos
+Conhecimento dos critérios para determinar quando usar os procedimentos apropriados
+Métodos apropriados para tipos diferentes de experimentos, procedimentos de análise estatística usados em situações distintas, padrões para gêneros diferentes de escrita
+Conhecimento metacognitivo – Saber raciocinar de modo geral ou específico
+Conhecimento estratégico
+Maneiras de memorizar fatos, estratégias para compreensão da leitura, métodos para planejar um site
+Conhecimento sobre tarefas cognitivas, incluindo o conhecimento contextual e condicional apropriado
+Leituras diferentes exigem apostilas e romances; pensar adiante ao usar um banco de dados eletrônico; diferenças entre redigir e-mails e cartas comerciais
+Autoconhecimento
+Necessidade de um diagrama ou gráfico para entender processos complexos, melhor compreensão em ambientes silenciosos, necessidade de discutir idéias com alguém antes de redigir um ensaio
+Referências
+Anderson, L. W. e Krathwohl, D. R. (2001). A taxonomy for learning, teaching, and assessing. New York: Longman.
+Bloom, B.S., (Ed.). 1956. Taxonomy of educational objectives: The classification of educational goals: Handbook I, cognitive domain. New York: Longman.
+B. Bloom et al., Taxonomia de Objetivos Educacionais. Domínio Cognitivo.Ed. Globo, Porto Alegre, 1974.
+Costa, A. L. (Ed.). (2000). Developing minds: A resource book for teaching thinking. Alexandria, VA: ASCD.
+Marzano, R. J. (2000). Designing a new taxonomy of educational objectives. Thousand Oaks, CA: Corwin Press.
