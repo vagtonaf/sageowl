@@ -105,7 +105,7 @@ YAHOO - Empresa norte-americana de serviços de Internet com a missão de ser "o
 
 1.2 O Papel da Avaliação na Aprendizagem
 
-      Em uma visão contemporânea da aprendizagem, verificamos que as pessoas constroem novos conhecimentos e compreensões baseados no que elas já conhecem [Moreira 1999]. Portanto, acreditamos que os docentes precisam estar atentos não só aos conhecimentos dos seus alunos mais às suas lacunas de conhecimento que trazem sobre sua disciplina. Alguns exemplos são: compreensões incompletas, falsas crenças e definições, interpretações estreitas dos conceitos, etc.
+      Em uma visão contemporânea da aprendizagem, verificamos que as pessoas constroem novos conhecimentos e compreensões baseados no que elas já conhecem (Moreira 1999). Portanto, acreditamos que os docentes precisam estar atentos não só aos conhecimentos dos seus alunos mais às suas lacunas de conhecimento que trazem sobre sua disciplina. Alguns exemplos são: compreensões incompletas, falsas crenças e definições, interpretações estreitas dos conceitos, etc.
 
       No passado acreditava-se a aprendizagem centravam-se nas capacidades cognitivas e nos fatores motivacionais como os principais determinantes da realização escolar. Hoje, com o avanço das metodologias pedagógicas, uma terceira categoria de variáveis tem sido extensivamente estudada: a dos processos metacognitivos [Ribeiro 2003].
 
@@ -269,7 +269,7 @@ Exemplos: Selecione a solução mais eficaz. Contratar os candidatos mais qualif
 
       A avaliação cognitiva tem como meta principal identificar o nível cognitivo do aprendiz num determinado domínio de conhecimento, de forma que seja possível no curso de diversas avaliações apontar quais são os conceitos que o aprendiz demonstra que ”sabe”, ou seja, compreender melhor o conhecimento atual que um estudante possui.
 
-      O termo ”conhecimento atual” denota que aquilo que uma pessoa sabe está sempre mudando e que portanto é necessário monitorar esses conhecimentos para melhor guiar a instrução, seja no ensino presencial ou em Ambientes  
+      O termo ”conhecimento atual” denota que aquilo que uma pessoa sabe está sempre mudando e que portanto é necessário monitorar esses conhecimentos para melhor guiar a instrução, seja no ensino presencial ou em Ambientes (Ribeiro,2003).  
 
 
 Computacionais de Aprendizagem.
@@ -523,6 +523,16 @@ paços da instalação do Python no Eclipse com o Pydev: 1) No Eclipse, selecion
 
 Referências
 
+CHALMERS, Douglas; MCAUSLAND, W. D. M.. The Handbook for Economics
+Lecturers: Computer-assisted assessment. Glasgow Caledonian University. Disponível
+em: <http://www.economicsnetwork.ac.uk/handbook/printable/caa_v5.pdf>. Acesso
+em: 20 ago. 2009.
+
+MOREIRA, Marco Antônio. Pesquisa em ensino: aspectos metodológicos e
+referenciais teóricos a luz do vê epistemologico de Gowin. São Paulo: EPU, c1990. 94p
+(Temas básicos de educação e ensino) ISBN 85-12-30630-0, (broch.)
+
+Ribeiro, C. (2003). Metacognição: Um apoio ao processo de aprendizagem.Psicologia: Reflexão e Critica, 16(1), 109-116. 
  
 Referências Disponível em: <http://www.python.org.br>. Acesso em: 28,jul,2009. 
 
