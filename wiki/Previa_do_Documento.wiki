@@ -533,6 +533,11 @@ referenciais teóricos a luz do vê epistemologico de Gowin. São Paulo: EPU, c1
 (Temas básicos de educação e ensino) ISBN 85-12-30630-0, (broch.)
 
 Ribeiro, C. (2003). Metacognição: Um apoio ao processo de aprendizagem.Psicologia: Reflexão e Critica, 16(1), 109-116. 
+
+RAABE, André Luís Alice. Uma Proposta de Arquitetura de Sistema Tutor
+Inteligente Baseado na Teoria das Experiências de Aprendizagem Mediadas. 2005.
+152 f. Tese (Doutorado) - Curso de Pós-graduação em Informática Na Educação,
+Universidade Federal do Rio Grande do Sul, Porto Alegre, 2005.
  
 Referências Disponível em: <http://www.python.org.br>. Acesso em: 28,jul,2009. 
 
