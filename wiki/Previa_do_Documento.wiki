@@ -338,7 +338,7 @@ NAC (Nível de Aquisição de Conhecimentos) proposto pelos próprios Pimentel, 
 
       Scrum é um processo interativo e incremental para o desenvolvimento de produtos ou para a gestão de tarefas.
 
-      Concebida inicialmente como método de gerenciamento de projetos em empresas de fabricação de automóveis e produtos de consumo, por Takeuchi e Nonaka no artigo "The New Product Development Game" (Harvard Business Review, Janeiro-Fevereiro 1986), é classificada como uma metodologia ágil e de fácil gerenciamento e vem sendo adotada recentemente por grandes empresas no seguimento de software, como a Google e Yahoo, que subdividem suas grandes equipes em pequenas equipes distintas e obtendo um resultado satisfatório.
+      Concebida inicialmente como método de gerenciamento de projetos em empresas de fabricação de automóveis e produtos de consumo, por Takeuchi e Nonaka no artigo "The New Product Development Game" (TAKEUCHI, 1986), é classificada como uma metodologia ágil e de fácil gerenciamento e vem sendo adotada recentemente por grandes empresas no seguimento de software, como a Google e Yahoo, que subdividem suas grandes equipes em pequenas equipes distintas e obtendo um resultado satisfatório.
 
       Esta metodologia tem como objetivo agilizar e melhorar os resultados dos desenvolvimentos de softwares. Esta agilidade suportada por esta metodologia de planejamento e gestão é sem duvida uma evolução na capacidade de resposta, adequabilidade, eficiência e eficácia na gestão de processos. O método SCRUM é usado para maximizar a produtividade das equipes. O núcleo do processo de gerenciamento de projetos ágeis do SCRUM é baseado em um modelo cooperativo onde a equipe se auto gerenciam, são organizadas em níveis e em várias hierarquias profissionais, seguindo um contexto em que todos decidem, por meio de reuniões, a melhor forma de agir para solução de um problema comum ou desafio e assim atingir um único objetivo que é a entrega do sistema ao cliente com custo, tempo e qualidade melhores, com isso gerando maior lucratividade.  
 
@@ -548,6 +548,9 @@ You Don’t:: Further Research on Metacognitive Knowledge Monitoring. College
 Board Research Report No. 2002-3. Disponível em:
 <http://professionals.collegeboard.com/profdownload/pdf/071623RDCBRpt02-3.pdf>. Acesso em:
 23 ago. 2009.
+
+TAKEUCHI, D. A. and NONAKA, I.. The New Product Development Game. Havard Business Review, p. 137-146, jan/feb., 1986. 
+
 
 Referências Disponível em: <http://www.python.org.br>. Acesso em: 28,jul,2009. 
 
