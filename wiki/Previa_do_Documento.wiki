@@ -538,6 +538,10 @@ RAABE, André Luís Alice. Uma Proposta de Arquitetura de Sistema Tutor
 Inteligente Baseado na Teoria das Experiências de Aprendizagem Mediadas. 2005.
 152 f. Tese (Doutorado) - Curso de Pós-graduação em Informática Na Educação,
 Universidade Federal do Rio Grande do Sul, Porto Alegre, 2005.
+
+FEUERSTEIN, Reuven. The dynamic assessment of cognitive modifiability: the
+learning propensity assessment device, theory, instruments and techniques. Jerusalem:
+ICELP, 2002. 630 p il ISBN 9659049005 (enc.)
  
 Referências Disponível em: <http://www.python.org.br>. Acesso em: 28,jul,2009. 
 
