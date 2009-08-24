@@ -133,6 +133,67 @@ Leituras diferentes exigem apostilas e romances; pensar adiante ao usar um banco
 Autoconhecimento
 Necessidade de um diagrama ou gráfico para entender processos complexos, melhor compreensão em ambientes silenciosos, necessidade de discutir idéias com alguém antes de redigir um ensaio
 
+
+################# outro texto
+
+Revisão da Taxonomia 
+Uma retrospectiva de quarenta anos do impacto da Taxonomia cognitiva por Lorin Anderson e Sosniak Lauren em 1994 (que remonta a sua edição preliminar em 1954) resultou em consideração renovada de uma revisão, os esforços anteriores não ter de vir a ser concretizadas. Em 1995, Anderson e co-presidido Krathwohl um grupo para explorar esta possibilidade, bem como o grupo aprovou as orientações para tentar uma revisão. Como o grupo original, que se encontraram duas vezes por ano, e em 2001 eles produziram um Taxonomy for Learning, Teaching and Assessing: A Revision of Bloom's Taxonomy of Educational Objectives, designado como a revisão. Considerando que o original era unidimensional, a revisão teve duas dimensões, com base nas duas partes de objectivos: (1) substantivos que descrevem o conteúdo (conhecimento) para ser aprendido, e (2) os verbos que descrevem o que os alunos vão aprender a fazer com que o conteúdo; isto é, os processos que utilizam na produção ou de trabalho com o conhecimento. 
+A dimensão do conhecimento. A categoria de conhecimento da taxonomia original incluía tanto o aspecto cognitivo conteúdo eo aspecto de ação de lembrar. Estas foram separadas no âmbito da revisão, de modo que o aspecto de conteúdo (substantivos) tornou-se a sua própria dimensão, com quatro categorias: 
+• A. Conhecimento Factual (os estudantes devem conhecer os elementos básicos para se familiarizar com a disciplina ou resolver problemas na mesma) 
+• a. Conhecimento da terminologia 
+• b. O conhecimento de detalhes e elementos específicos 
+• B. Conceptual Knowledge (as inter-relações entre os elementos básicos dentro de uma estrutura maior, que lhes permitam funcionar juntos) 
+• a. Conhecimento de classificações e categorias 
+• b. Conhecimento de princípios e generalizações 
+• c. Conhecimento de teorias, modelos e estruturas 
+• C. processual de conhecimento (como fazer alguma coisa, incluindo métodos de investigação e critérios de utilização de habilidades, algoritmos, técnicas e métodos) 
+• a. Conhecimento do assunto habilidades específicas e algoritmos 
+• b. Conhecimento do assunto de técnicas e métodos específicos 
+• c. Conhecimento de critérios para determinar quando usar os procedimentos adequados 
+• D. metacognitiva do conhecimento (o conhecimento da cognição em geral, bem como a conscientização eo conhecimento da nossa própria cognição) 
+• a. O conhecimento estratégico 
+• b. O conhecimento sobre as tarefas cognitivas, incluindo o conhecimento condicional e contextual adequada 
+• c. Auto-conhecimento 
+A dimensão do processo. Na revisão, os conceitos das seis categorias originais foram mantidas, mas mudou-se a verbos para o processo (segundo) de dimensão. O aspecto da ação de conhecimento foi renomeado como Lembre-se. Compreensão tornou Understand. Síntese, passa por criar, se tornou a categoria superior. Há, todos novos, constou de verbos no gerúndio. Em geral, as categorias da dimensão são: 
+• 1.0. Remember (recuperação de conhecimento relevante da memória de longo prazo) 
+• 1.1. Reconhecendo 
+• 1.2. Recordando 
+• 2.0. Entenda (determinando o significado das mensagens de instrução, inclusive oral, escrita, gráfica e de comunicação 
+• 2.1. Interpretando 
+• 2.2. Exemplificando 
+• 2.3. Classificando 
+• 2.4. Resumindo 
+• 2.5. Deduzir 
+• 2.6. Comparando 
+• 2.7. Explicando 
+• 3.0. Aplicar (realização ou por um processo em uma dada situação) 
+• 3.1. Executora 
+• 3.2. Aplicação 
+• 4.0. Analise (quebra de material em suas partes constituintes e detectar como as partes se relacionam entre si e com uma estrutura global ou efeito); 
+• 4.1. Diferenciando 
+• 4.2. Organizar 
+• 4.3. Atribuindo 
+• 5.0. Avaliar (tomada de decisões baseadas em critérios e normas 
+• 5.1. Verificado 
+• 5.2. Criticando 
+• 6.0. Criar (inserindo elementos para formar uma novela, todo coerente, ou fazer um produto original) 
+• 6.1. Gerando 
+• 6.2. Planejamento 
+• 6.3. Produzindo 
+FIGURA 1 
+A Tabela de Taxonomia 
+Com estas duas dimensões é possível construir uma tabela de taxonomia em que se pode localizar a junção das classificações de um objectivo do verbo e substantivo. Considere o objetivo: "O aluno deve ser capaz de reconhecer os fatos e / ou hipóteses que são essenciais para um argumento." A frase de abertura, "O aluno deve ser capaz de," é comum para os objectivos-lo é a única parte do objectivo que nos classificar. O verbo é "reconhecer" e do substantivo é realmente uma cláusula de substantivo: "os fatos e hipóteses que são essenciais para um argumento." 
+Primeiro, é determinado o que se entende por "reconhecer". Inicialmente, o termo parece pertencer à categoria Lembre-se porque o reconhecimento é Lembre-se da primeira categoria. Mas reconhecendo, a subcategoria, se refere a algo que aprendemos antes, o que não é o seu significado aqui. Aqui, isso significa que, ao analisar a lógica do argumento, o aluno provoca os fatos e hipóteses em que o argumento depende. A classificação correta é analisar. 
+A cláusula de substantivo, "os fatos ou hipóteses, que são essenciais para um argumento", parece incluir dois tipos de conhecimento. "Os fatos" é claramente de conhecimento factual, e "pressupostos" que, ao assumir os fatos de um argumento são verdadeiras, pode também ser de conhecimento factual. Mas, supondo que um princípio ou conceito como parte de um argumento (a evolução, por exemplo) seriam classificados como Conceptual Knowledge. Portanto, este objetivo seria se dividem em duas células da tabela de taxonomia da junção de analisar com conhecimento factual e com conhecimento conceitual, como mostra o X na Figura 1. 
+Assim como os objectivos podem ser classificadas em uma tabela, por isso pode actividades escolares usados para atingi-los. Da mesma forma, pode-se construir uma tabela para avaliação de tarefas e itens de teste. Se as metas, atividades e avaliações estão alinhados, o X deve cair em células idênticas em todas as três tabelas. Na medida em que não o fizerem, os objetivos podem ser alcançados apenas parcialmente e / ou medido, e medidas podem ser tomadas para restaurar o alinhamento. 
+Comentários inseridos em vinhetas da sala de aula na revisão explicar a classificação dos objetivos, atividades e avaliações de como eles levam a três tabelas de taxonomia concluída. As três tabelas são então comparados para mostrar o alinhamento, ou a falta dela, em cada vinheta. Os seis vinhetas incluem diferentes disciplinas no ensino básico e secundário. 
+Classificação alternativa Quadros 
+Desde a publicação do quadro original, inúmeras alternativas têm aparecido-se a completar, aperfeiçoar, ou substituí-lo. Capítulo 15 da revisão analisa dezenove quadros como em relação ao taxonomias original e revisado. Onze são unidimensionais, enquanto oito incluir dois ou mais dimensões. Alguns usam os termos inteiramente novos, e alguns incluem o domínio afetivo. 
+Por exemplo, em 1981, Robert Stahl e Gary Murphy, desde que estas novas rubricas: Preparação, observação, recepção, transformação, Aquisição, Retenção, Transfersion, Incorporação, Organização e Geração. A Organização pontes rumo ao domínio afetivo. David Merrill, em 1994, concebeu uma estrutura semelhante à taxonomia revisada, utilizando duas dimensões, cada uma com quatro categorias, para formar uma matriz de desempenho de conteúdo com uma dimensão de desempenho dos alunos (Lembre-Instância, Lembre-se: A generalidade, a utilização ea Localizar) e uma dimensão assunto (Fato, Conceito, Processo e Princípio). O quadro de 1977 de Larry John Hannah e Michaelis é ainda mais semelhantes. Alfred Lemoine (1972) e outros desenvolveram quadros com mais de duas dimensões, enquanto quadro Dean Hauenstein, em 1998, desde taxonomias para os três domínios. Taxonomia de Marzano (2001) propõe uma combinação de três tipos de conhecimento, de informação (muitas vezes chamado de conhecimento declarativo), Mental Procedimentos (conhecimento processual), e psicomotora Procedimentos. Marzano também desenvolve um modelo de processamento de ações que, sucessivamente, o fluxo através de três sistemas de pensamento hierarquicamente relacionados: primeiro o sistema de auto, então o sistema metacognitiva e, finalmente, o sistema cognitivo (que inclui a recuperação, Compreensão, Análise e Utilização do Conhecimento). 
+Veja também: Currículo, da entrada secundária na Escola.
+
+##########################
+
 Referências
 
 
