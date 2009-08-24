@@ -520,7 +520,6 @@ paços da instalação do Python no Eclipse com o Pydev: 1) No Eclipse, selecion
 
 
 
-
 Referências
 
 CHALMERS, Douglas; MCAUSLAND, W. D. M.. The Handbook for Economics
@@ -543,6 +542,13 @@ FEUERSTEIN, Reuven. The dynamic assessment of cognitive modifiability: the
 learning propensity assessment device, theory, instruments and techniques. Jerusalem:
 ICELP, 2002. 630 p il ISBN 9659049005 (enc.)
  
+
+TOBIAS, Sigmund; EVERSON, Howard T.. Knowing What You Know and What
+You Don’t:: Further Research on Metacognitive Knowledge Monitoring. College
+Board Research Report No. 2002-3. Disponível em:
+<http://professionals.collegeboard.com/profdownload/pdf/071623RDCBRpt02-3.pdf>. Acesso em:
+23 ago. 2009.
+
 Referências Disponível em: <http://www.python.org.br>. Acesso em: 28,jul,2009. 
 
 Disponível em: <http://www.pythonbrasil.com.br/moin.cgi/PerguntasFrequentes/SobrePython>. Acesso em: 28,jul,2009. 
