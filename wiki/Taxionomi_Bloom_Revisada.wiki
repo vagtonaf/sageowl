@@ -3,11 +3,15 @@
 Quando abordamos anteriormente a taxinomia de Bloom de 1956, notamos que ela foi feita com pesquisas e conceitos abordados naquela época e naturalmente foi usada e aprimorada. Podemos sitar os trabalhos de Dr. Lorin Anderson, aluno de Bloom, em meados de 1999, este que publicou um artigo que aperfeiçoava o metodo, Os educadores, atravez de estudo, aprenderam muito mais sobre como os alunos atuam na aprendizagem e como os professores ensinam. atravez dessa pesquisa reconheceram que a aprendizagem e o ensino abordam muito mais do que o raciocínio simples. Descobriram que esse raciocínio tinham relação direta com as crenças e os sentimento dos professores e alunos estudados e que o ambiente em sala de aula, devido as relações sócio-culturais, atuavam diretamente no comportamento deles. 
 Devido a esse conceito foi criada a Taxonomia de Bloom revisada que considera uma gama maior de fatores que afetam a aprendizagem e o ensino, tenta corrigir alguns problemas da taxonomia original. A taxionomia revisada diferencia o "saber como" do "saber o quê", 
 procedimentos para resolver problemas e conteúdo do raciocínio respectivamente.
+Podemos clasificalas em quatro categoria distintas: 
+ conceitual: Que é o conhecimento conceitual em sistemas de informação, como categorias e classificações. 
+ Factual: Que é o conhecimento que inclui elementos isolados de informação, conhecimento de detalhes específicos, vocabulário e definições.
 
-Diferentemente da versão de 1956, a taxonomia revisada diferencia “saber o quê” (o conteúdo do raciocínio) de “saber como” (os procedimentos para resolver problemas).
-A Dimensão do Conhecimento é o “saber o quê”. Ela se divide em quatro categorias: factual, conceitual, procedimental e metacognitiva. O conhecimento factual inclui elementos isolados de informação, como definições de vocabulário e conhecimento de detalhes específicos. O conhecimento conceitual consiste em sistemas de informação, como classificações e categorias.
-O conhecimento procedimental (saber como fazer) inclui algoritmos, heurística ou método empírico, técnicas e métodos, bem como o conhecimento sobre quando usar esses procedimentos. O conhecimento metacognitivo (refletir sobre o que se sabe) refere-se ao conhecimento dos processos cognitivos e das informações sobre como manipular esses processos de forma eficaz.
-A dimensão Processo Cognitivo da Taxonomia de Bloom revisada, como na versão original, possui seis capacitações. Da mais simples à mais complexa, são elas: lembrar, entender, aplicar, analisar, avaliar e criar.
+ Procedimental: Que é o conhecimento procedimental, o saber como fazer, como inclui algoritmos, utilizar a heurística ou outros métodos empíricos, utilizando técnicas e métodos adequados, bem como o conhecimento sobre quando usar qualquer destes procedimentos estudas.
+
+ Metacognitiva: Que é o conhecimento metacognitivo ou o que reflete sobre o que se sabe, referindo-se ao conhecimento e informações dos processos cognitivos. sobre como manipula-los de forma eficiente.
+ 
+  A dimensão Processo Cognitivo da Taxonomia de Bloom revisada, como na versão original, possui seis capacitações. Da mais simples à mais complexa, são elas: lembrar, entender, aplicar, analisar, avaliar e criar.
 Lembrar
 Lembrar consiste em reconhecer e recordar informações importantes da memória de longa duração.
 Entender
