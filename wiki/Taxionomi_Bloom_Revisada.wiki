@@ -11,19 +11,25 @@ Podemos clasificalas em quatro categoria distintas:
 
  Metacognitiva: Que é o conhecimento metacognitivo ou o que reflete sobre o que se sabe, referindo-se ao conhecimento e informações dos processos cognitivos. sobre como manipula-los de forma eficiente.
  
-  A dimensão Processo Cognitivo da Taxonomia de Bloom revisada, como na versão original, possui seis capacitações. Da mais simples à mais complexa, são elas: lembrar, entender, aplicar, analisar, avaliar e criar.
-Lembrar
-Lembrar consiste em reconhecer e recordar informações importantes da memória de longa duração.
-Entender
-Entender é a capacidade de fazer sua própria interpretação do material educacional, como leituras e explicações do professor. As subcapacitações desse processo incluem interpretação, exemplificação, classificação, resumo, conclusão, comparação e explanação.
-Aplicar
-O terceiro processo, aplicação, refere-se a usar o procedimento aprendido em uma situação familiar ou nova.
-Analisar
-O processo seguinte é a análise, que consiste em dividir o conhecimento em partes e pensar como essas partes se relacionam com a estrutura geral. A análise dos alunos é feita por meio de diferenciação, organização e atribuição.
-Avaliar
-A avaliação, que é o item mais avançado da taxonomia original, é o quinto dos seis processos da versão revisada. Ela engloba verificação e crítica.
-Criar
-Criação, um processo que não fazia parte da primeira taxonomia, é o principal componente da nova versão. Essa capacitação envolve reunir elementos para dar origem a algo novo. Para conseguir criar tarefas, os alunos geram, planejam e produzem.
+  O Processo Cognitivo da Taxonomia de Bloom revisada é abrangente, como na versão original, possui seis capacitações. 
+
+Podemos organizala da mais simples à mais complexa, como veremos abaixo: 
+São desta forma classificadas em lembrar, entender, aplicar, analisar, avaliar e criar.
+
+Onde lemrar é reconhecer e recordar informações importantes da memória de longa duração.
+
+Onde Entender é a capacidade de fazer sua própria interpretação do material educacional, 
+como leituras e explicações do professor. Podemos ainda ter também subcapacitações desses processos que incluem: interpretação, exemplificação, classificação, resumo, conclusão, comparação e explanação.
+
+Já a Aplicação, refere-se a utilizar o procedimento aprendido em uma situação nova ou no dia a dia.
+
+O quarto item é o Analisar que consiste na organização do conhecimento, dividindo ele em partes e pensando como essas partes separadamente sem relaciona-las com a estrutura geral. Essa análise feita pelos alunos é por meio de organização, diferenciação  e atribuição.
+
+O penultimo item o Avaliar é o mais avançado da taxonomia original, esse processos da versão revisada engloba a crítica e verificação do que é aprendido.
+
+Finalmente chegamos ao último item que o de Criação, um processo que não fazia parte da primeira taxonomia e essa capacitação envolve reunir todos os elementos para dar origem a algo novo. esté elemento é o principal componente da nova versão de taxionomia. Para conseguir criar tarefas, os alunos geram, planejam e produzem. 
+
+####################################
 Segundo esta taxonomia, cada nível de conhecimento pode corresponder a um nível de processo cognitivo, portanto o aluno pode lembrar um conhecimento factual ou procedimental, entender o conhecimento conceitual ou metacognitivo ou analisar o conhecimento metacognitivo ou factual. Segundo Anderson e seus colegas, “O ensino significativo proporciona aos alunos o conhecimento e os processos cognitivos necessários para uma solução de problemas.” Os gráficos a seguir contêm exemplos de cada capacitação das dimensões Cognitiva e Conhecimento.
 Dimensões dos processos cognitivos
 Processos cognitivos
@@ -135,10 +141,43 @@ Maneiras de memorizar fatos, estratégias para compreensão da leitura, métodos
 Conhecimento sobre tarefas cognitivas, incluindo o conhecimento contextual e condicional apropriado
 Leituras diferentes exigem apostilas e romances; pensar adiante ao usar um banco de dados eletrônico; diferenças entre redigir e-mails e cartas comerciais
 Autoconhecimento
-Necessidade de um diagrama ou gráfico para entender processos complexos, melhor compreensão em ambientes silenciosos, necessidade de discutir idéias com alguém antes de redigir um ensaio
+Necessidade de um diagrama ou gráfico para entender processos complexos, melhor compreensão em ambientes silenciosos, necessidade de discutir idéias com alguém antes de redigir um ensaio.
 
+Referências
 
-################# outro texto
+B. Bloom et al., Taxonomia de Objetivos Educacionais. Domínio Cognitivo.Ed. Globo, Porto Alegre, 1974.
+
+Costa, A. L. (Ed.). (2000). Developing minds: A resource book for teaching thinking. Alexandria, VA: ASCD.
+
+Anderson, Lorin W., and Krathwohl, David R., eds. 2001. A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom's Taxonomy of Educational Objectives. New York: Longman.
+
+Anderson, Lorin W., and Sosniak, Lauren A., eds. 1994. Bloom's Taxonomy: A Forty-Year Retrospective. Ninety-third Yearbook of the National Society for the Study of Education. Chicago: University of Chicago Press.
+
+Bloom, Benjamin. S., ed. 1956. Taxonomy of Educational Objectives: The Classification of Educational Goals; Handbook I, Cognitive Domain. New York: David McKay.
+
+Dave, Ravindrakumar H. 1970. "Psychomotor Levels." In Developing and Writing Behavioral Objectives, ed. Robert J. Armstrong. Tucson AZ: Educational Innovators Press.
+
+DeBlock, Alfred, et al. 1972. "La Taxonomie des Objectifs pour la Discipline du Latin." Didactica Classica Gandensia 17:12–13, 119–131.
+
+Fleishman, Edwin A., and Quaintance, Marilyn K. 1984. Taxonomies of Human Performance: The Description of Human Tasks. Orlando, FL: Academic Press.
+
+Hannah, Larry S., and Michaelis, John U. 1977. A Comprehensive Framework for Instructional Objectives: A Guide to Systematic Planning and Evaluation. Reading, MA: Addison-Wesley.
+
+Harrow, Anita J. 1972. A Taxonomy of the Psychomotor Domain: A Guide for Developing Behavioral Objectives. New York: David McKay.
+
+Hauenstein, A. Dean. 1998. A Conceptual Framework for Educational Objectives: A Holistic Approach to Traditional Taxonomies. Lanham, MD: University Press of America.
+
+Krathwohl, David R.; Bloom, Benjamin S.; and Masia, Bertram B. 1964. Taxonomy of Educational Objectives: The Classification of Educational Goals; Handbook II: The Affective Domain. New York: David McKay.
+
+Marzano, Robert J. 2001. Designing a New Taxonomy of Educational Objectives. Thousand Oaks, CA: Corwin Press.
+
+Merrill, M. David. 1994. Instructional Design Theory. Englewood Cliffs, NJ: Educational Technology Publications.
+
+Simpson, Betty J. 1966. "The Classification of Educational Objectives: Psychomotor Domain." Illinois Journal of Home Economics 10 (4):110–144.
+
+Stahl, Robert J., and Murphy, Gary T. 1981. The Domain of Cognition: An Alternative to Bloom's Cognitive Domain within the Framework of an Information-Processing Model. ERIC Document Reproduction Service No. ED 208511.
+
+################# outro texto ainda não tratado
 
 Revisão da Taxonomia 
 Uma retrospectiva de quarenta anos do impacto da Taxonomia cognitiva por Lorin Anderson e Sosniak Lauren em 1994 (que remonta a sua edição preliminar em 1954) resultou em consideração renovada de uma revisão, os esforços anteriores não ter de vir a ser concretizadas. Em 1995, Anderson e co-presidido Krathwohl um grupo para explorar esta possibilidade, bem como o grupo aprovou as orientações para tentar uma revisão. Como o grupo original, que se encontraram duas vezes por ano, e em 2001 eles produziram um Taxonomy for Learning, Teaching and Assessing: A Revision of Bloom's Taxonomy of Educational Objectives, designado como a revisão. Considerando que o original era unidimensional, a revisão teve duas dimensões, com base nas duas partes de objectivos: (1) substantivos que descrevem o conteúdo (conhecimento) para ser aprendido, e (2) os verbos que descrevem o que os alunos vão aprender a fazer com que o conteúdo; isto é, os processos que utilizam na produção ou de trabalho com o conhecimento. 
@@ -202,38 +241,3 @@ KRATHWOHL, DAVID R. ANDERSON, LORIN W. Taxonomies of Educational Objectives
 Encyclopedia of Education. 2002.  
 
 ##########################
-
-Referências
-
-
-B. Bloom et al., Taxonomia de Objetivos Educacionais. Domínio Cognitivo.Ed. Globo, Porto Alegre, 1974.
-
-Costa, A. L. (Ed.). (2000). Developing minds: A resource book for teaching thinking. Alexandria, VA: ASCD.
-
-Anderson, Lorin W., and Krathwohl, David R., eds. 2001. A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom's Taxonomy of Educational Objectives. New York: Longman.
-
-Anderson, Lorin W., and Sosniak, Lauren A., eds. 1994. Bloom's Taxonomy: A Forty-Year Retrospective. Ninety-third Yearbook of the National Society for the Study of Education. Chicago: University of Chicago Press.
-
-Bloom, Benjamin. S., ed. 1956. Taxonomy of Educational Objectives: The Classification of Educational Goals; Handbook I, Cognitive Domain. New York: David McKay.
-
-Dave, Ravindrakumar H. 1970. "Psychomotor Levels." In Developing and Writing Behavioral Objectives, ed. Robert J. Armstrong. Tucson AZ: Educational Innovators Press.
-
-DeBlock, Alfred, et al. 1972. "La Taxonomie des Objectifs pour la Discipline du Latin." Didactica Classica Gandensia 17:12–13, 119–131.
-
-Fleishman, Edwin A., and Quaintance, Marilyn K. 1984. Taxonomies of Human Performance: The Description of Human Tasks. Orlando, FL: Academic Press.
-
-Hannah, Larry S., and Michaelis, John U. 1977. A Comprehensive Framework for Instructional Objectives: A Guide to Systematic Planning and Evaluation. Reading, MA: Addison-Wesley.
-
-Harrow, Anita J. 1972. A Taxonomy of the Psychomotor Domain: A Guide for Developing Behavioral Objectives. New York: David McKay.
-
-Hauenstein, A. Dean. 1998. A Conceptual Framework for Educational Objectives: A Holistic Approach to Traditional Taxonomies. Lanham, MD: University Press of America.
-
-Krathwohl, David R.; Bloom, Benjamin S.; and Masia, Bertram B. 1964. Taxonomy of Educational Objectives: The Classification of Educational Goals; Handbook II: The Affective Domain. New York: David McKay.
-
-Marzano, Robert J. 2001. Designing a New Taxonomy of Educational Objectives. Thousand Oaks, CA: Corwin Press.
-
-Merrill, M. David. 1994. Instructional Design Theory. Englewood Cliffs, NJ: Educational Technology Publications.
-
-Simpson, Betty J. 1966. "The Classification of Educational Objectives: Psychomotor Domain." Illinois Journal of Home Economics 10 (4):110–144.
-
-Stahl, Robert J., and Murphy, Gary T. 1981. The Domain of Cognition: An Alternative to Bloom's Cognitive Domain within the Framework of an Information-Processing Model. ERIC Document Reproduction Service No. ED 208511.
