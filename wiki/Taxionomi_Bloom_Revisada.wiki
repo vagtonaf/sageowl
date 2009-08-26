@@ -1,33 +1,34 @@
 #Sendo trabalhado#
 
-Quando abordamos anteriormente a taxinomia de Bloom de 1956, notamos que ela foi feita com pesquisas e conceitos abordados naquela época e naturalmente foi usada e aprimorada. Podemos sitar os trabalhos de Dr. Lorin Anderson, aluno de Bloom, em meados de 1999, este que publicou um artigo que aperfeiçoava o metodo, Os educadores, atravez de estudo, aprenderam muito mais sobre como os alunos atuam na aprendizagem e como os professores ensinam. atravez dessa pesquisa reconheceram que a aprendizagem e o ensino abordam muito mais do que o raciocínio simples. Descobriram que esse raciocínio tinham relação direta com as crenças e os sentimento dos professores e alunos estudados e que o ambiente em sala de aula, devido as relações sócio-culturais, atuavam diretamente no comportamento deles. 
+   Quando abordamos anteriormente a taxonomia de Bloom de 1956, notamos que ela foi feita com pesquisas e conceitos abordados naquela época e naturalmente foi usada e aprimorada. Podemos citar os trabalhos de Dr. Lorin Anderson, aluno de Bloom, em meados de 1999, este que publicou um artigo que aperfeiçoava o método, Os educadores, através de estudo, aprenderam muito mais sobre como os alunos atuam na aprendizagem e como os professores ensinam. Através dessa pesquisa reconheceram que a aprendizagem e o ensino abordam muito mais do que o raciocínio simples. Descobriram que esse raciocínio tinha relação direta com as crenças e os sentimentos dos professores e alunos estudados e que o ambiente em sala de aula, devido às relações sócio-culturais, atuava diretamente no comportamento deles. 
 Devido a esse conceito foi criada a Taxonomia de Bloom revisada que considera uma gama maior de fatores que afetam a aprendizagem e o ensino, tenta corrigir alguns problemas da taxonomia original. A taxionomia revisada diferencia o "saber como" do "saber o quê", 
 procedimentos para resolver problemas e conteúdo do raciocínio respectivamente.
-Podemos clasificalas em quatro categoria distintas: 
- conceitual: Que é o conhecimento conceitual em sistemas de informação, como categorias e classificações. 
+Podemos classificá-las em quatro categorias distintas: 
+ Conceitual: Que é o conhecimento conceitual em sistemas de informação, como categorias e classificações. 
  Factual: Que é o conhecimento que inclui elementos isolados de informação, conhecimento de detalhes específicos, vocabulário e definições.
 
- Procedimental: Que é o conhecimento procedimental, o saber como fazer, como inclui algoritmos, utilizar a heurística ou outros métodos empíricos, utilizando técnicas e métodos adequados, bem como o conhecimento sobre quando usar qualquer destes procedimentos estudas.
+ Procedimental: Que é o conhecimento procedimental, o saber como fazer, como inclui algoritmos, utilizar à heurística ou outros métodos empíricos, utilizando técnicas e métodos adequados, bem como o conhecimento sobre quando usar qualquer destes procedimentos estudas.
 
- Metacognitiva: Que é o conhecimento metacognitivo ou o que reflete sobre o que se sabe, referindo-se ao conhecimento e informações dos processos cognitivos. sobre como manipula-los de forma eficiente.
+ Metacognitiva: Que é o conhecimento metacognitivo ou o que reflete sobre o que se sabe, referindo-se ao conhecimento e informações dos processos cognitivos. Sobre como manipulá-los de forma eficiente.
  
   O Processo Cognitivo da Taxonomia de Bloom revisada é abrangente, como na versão original, possui seis capacitações. 
 
-Podemos organizala da mais simples à mais complexa, como veremos abaixo: 
+Podemos organizar da mais simples a mais complexa, como veremos abaixo: 
 São desta forma classificadas em lembrar, entender, aplicar, analisar, avaliar e criar.
 
-Onde lemrar é reconhecer e recordar informações importantes da memória de longa duração.
+Onde lembrar é reconhecer e recordar informações importantes da memória de longa duração.
 
 Onde Entender é a capacidade de fazer sua própria interpretação do material educacional, 
 como leituras e explicações do professor. Podemos ainda ter também subcapacitações desses processos que incluem: interpretação, exemplificação, classificação, resumo, conclusão, comparação e explanação.
 
 Já a Aplicação, refere-se a utilizar o procedimento aprendido em uma situação nova ou no dia a dia.
 
-O quarto item é o Analisar que consiste na organização do conhecimento, dividindo ele em partes e pensando como essas partes separadamente sem relaciona-las com a estrutura geral. Essa análise feita pelos alunos é por meio de organização, diferenciação  e atribuição.
+O quarto item é o Analisar que consiste na organização do conhecimento, dividindo ele em partes e pensando como essas partes separadamente sem relacioná-las com a estrutura geral. Essa análise feita pelos alunos é por meio de organização, diferenciação e atribuição.
 
-O penultimo item o Avaliar é o mais avançado da taxonomia original, esse processos da versão revisada engloba a crítica e verificação do que é aprendido.
+O penúltimo item o Avaliar é o mais avançado da taxonomia original, esse processos da versão revisada engloba a crítica e verificação do que é aprendido.
 
-Finalmente chegamos ao último item que o de Criação, um processo que não fazia parte da primeira taxonomia e essa capacitação envolve reunir todos os elementos para dar origem a algo novo. esté elemento é o principal componente da nova versão de taxionomia. Para conseguir criar tarefas, os alunos geram, planejam e produzem. 
+Finalmente chegamos ao último item que o de Criação, um processo que não fazia parte da primeira taxonomia e essa capacitação envolve reunir todos os elementos para dar origem a algo novo. Este elemento é o principal componente da nova versão de taxionomia. Para conseguir criar tarefas, os alunos geram, planejam e produzem.
+ 
 
 #####################################
 Tratado até aqui
