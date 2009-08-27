@@ -1,14 +1,13 @@
-from questoes.models import Classificacao
-from questoes.models import Questao
-#from questoes.models import QuestaoDiscurssiva
-#from questoes.models import QuestaoObjetiva
-from questoes.models import Alternativa
+from sageowl.questoes.models import Classificacao
+from sageowl.questoes.models import Questao
+from sageowl.questoes.models import QuestaoDiscurssiva
+from sageowl.questoes.models import QuestaoObjetiva
+from sageowl.questoes.models import Alternativa
  
 from django.contrib import admin
 
 admin.site.register(Classificacao)
 admin.site.register(Questao)
-#admin.site.register(QuestaoDiscurssiva, QuestaoObjetiva)
+admin.site.register(QuestaoDiscurssiva)
+admin.site.register(QuestaoObjetiva)
 admin.site.register(Alternativa)
-
- 
