@@ -21,7 +21,7 @@ class Classificacao(models.Model):
 class Questao(models.Model):
     nome = models.CharField(max_length = 100)
     classificacao = models.ForeignKey(Classificacao)
-    valor = models.CharField(max_length=20) # o valor é da questao
+    valor = models.FloatField # o valor é da questao ex.: 5,2
     #class Meta:
     #    abstract = True
      
