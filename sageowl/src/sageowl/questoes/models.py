@@ -11,6 +11,8 @@ from django.db import models
 class Nivel(models.Model):
     nome = models.CharField(max_length = 100)
     descricao = models.TextField()
+    class Meta:
+        verbose_name_plural = u'Niveis'
 
 #lembrar, entender, aplicar, analisar, avaliar e criar   
 class Classificacao(models.Model):
@@ -21,9 +23,9 @@ class Classificacao(models.Model):
 class Questao(models.Model):
     nome = models.CharField(max_length = 100)
     classificacao = models.ForeignKey(Classificacao)
-    valor = models.FloatField # o valor é da questao ex.: 5,2
-    #class Meta:
-    #    abstract = True
+    valor = models.FloatField(null=True) # o valor e da questao ex 5,2
+    class Meta:
+        verbose_name_plural = u'Questoes'
      
 class QuestaoDiscurssiva(Questao):
     resposta = models.TextField()
@@ -35,4 +37,6 @@ class Alternativa(models.Model):
     questao = models.ForeignKey(QuestaoObjetiva)
     descricao = models.TextField()
     correta = models.BooleanField()
+    class Meta:
+        verbose_name_plural = u'Alternativas'
 
