@@ -12,5 +12,20 @@ def index(request):
     return HttpResponse(t.render(c))
 
 
+#Criar em D:\www\django\templates\questoes\index.html
 
+#{% if ultima_questao_list %}
+#    <ul>
+#    {% for questao in ultima_questao_list %}
+#        <li>{{ questao.referencia }}</li>
+#        <li>{{ questao.texto }}</li>
+#        <li>{{ questao.valor }}</li>
+#    {% endfor %}
+#    </ul>
+#{% else %}
+#    <p>Nenhuma questoes encontrada.</p>
+#{% endif %}
 
+# lista as Questoes
+
+#http://localhost:8000/questoes/
