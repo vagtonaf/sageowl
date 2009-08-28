@@ -13,5 +13,10 @@ urlpatterns = patterns('',
     # (r'^admin/doc/', include('django.contrib.admindocs.urls')),
 
     # Uncomment the next line to enable the admin:
+    (r'^questoes/$', 'sageowl.questoes.views.index'),
+    (r'^questoes/(?P<questao_id>\d+)/$', 'sageowl.questoes.views.detail'),
+    (r'^questoes/(?P<questao_id>\d+)/resultado/$', 'sageowl.questoes.views.resultado'),
+    (r'^questoes/(?P<questao_id>\d+)/cadastro/$', 'sageowl.questoes.views.cadastro'),
+
     (r'^admin/(.*)', admin.site.root),
 )
