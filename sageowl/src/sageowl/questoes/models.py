@@ -29,15 +29,16 @@ class Classificacao(models.Model):
         return self.nome 
     
 class Questao(models.Model):
-    nome = models.CharField(max_length = 100)
+    referencia = models.CharField(max_length = 50, unique=True)
     classificacao = models.ForeignKey(Classificacao)
+    texto = models.TextField()
     valor = models.FloatField(null=True) # o valor e da questao ex 5,2
     class Meta:
-        unique_together = ('nome', 'classificacao')
+        unique_together = ('referencia', 'classificacao')
         verbose_name = u'Questao'
         verbose_name_plural = u'Questoes'
     def __unicode__(self): 
-        return self.nome 
+        return self.texto 
 
      
 class QuestaoDiscurssiva(Questao):
