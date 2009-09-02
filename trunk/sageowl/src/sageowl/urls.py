@@ -19,4 +19,9 @@ urlpatterns = patterns('',
     (r'^questoes/(?P<questao_id>\d+)/cadastro/$', 'sageowl.questoes.views.cadastro'),
 
     (r'^admin/(.*)', admin.site.root),
+         
 )
+urlpatterns = patterns('sageowl.usuarios.views', 
+    url(r'^login/$', 'loginView', name='login'),
+    url(r'^logout/$', 'logoutView', name='logout'),
+) 

@@ -1,0 +1,16 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+{% load i18n %}
+ <html>
+  <head>
+       <title>{% block title %}{% trans "SAGEWOL" %}{% endblock %}</title>
+            {% block headercontent %}{% endblock %}
+                 <link href="/media/css/normal.css" rel="stylesheet" type="text/css"></link> 
+  </head>
+   <body>
+    <h1>{% block inpage_title %}{% endblock %}</h1>
+       <div id="contents">{% block contents %}{% endblock %} </div>
+         <div id="footer"> 
+             {% block footer %}{% trans "---- \O=o> ----" %}{% endblock %} </div>
+               {% block endscripts %}{% endblock %}
+    </body>
+ </html> 

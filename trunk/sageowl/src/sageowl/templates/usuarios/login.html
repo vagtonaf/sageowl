@@ -1,0 +1,21 @@
+{% extends "base/base_login.html" %}
+{% load i18n %}
+
+{% block inpage_title %}{% trans "SAGEOWL Login" %}{% endblock %}
+
+{% block contents %}
+<br />
+<form method="post" action=".">
+<center>
+<table>
+{{ form }}
+</table>
+<br />
+<input type="submit" value="login" /></center>
+{% if error_message %}
+<p>{{ error_message }}{% endif %} 
+{% if form.has_errors %}
+<p>Seu usuario e senha não conferem. Por favor digite novamente.</p>{% endif %}
+</form>
+{% endblock %}
+
