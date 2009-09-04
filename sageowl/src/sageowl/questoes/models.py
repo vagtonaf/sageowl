@@ -1,8 +1,44 @@
 from django.db import models
-#Taxionomia
-#lembrar, entender, aplicar, analisar, avaliar e criar   
+
+from django.utils.translation import ugettext as _ 
+from django.conf import settings       
+import datetime 
+ 
+
+TAXIONOMIA_CHOICES = (
+                ('Lembrar', 'Lembranca'),
+                ('Entender', 'Entendimento'),
+                ('Aplicar', 'Aplicacao'),
+                ('Analizar', 'Analize'),
+                ('Avaliar', 'Avaliacao'),
+                ('Criar', 'Criacao'),
+) 
+CLASSIFICACAO_CHOICES = (
+                ('Reconhecer', 'Reconhecimento'),
+                ('Rembrar', 'Lembranca'),
+                ('Interpretar', 'Interprementacao'),
+                ('Exemplificar', 'Demostracao'),
+                ('Classificar', 'Classificacao'),
+                ('Concluir', 'Conclusao'),
+                ('Comparar', 'Comparacao'),
+                ('Esplicar', 'Esplicacao'),
+                ('Resumir', 'Simplificao'),
+                ('Executar', 'Execucao'),
+                ('Implementar', 'Implementacao'),
+                ('Diferenciar', 'Diferenciacao'),
+                ('Organizar', 'Organizacao'),
+                ('Atribuir', 'Atribuicao'),
+                ('Verificar', 'Verificacao'),
+                ('Criticar', 'Argumentacao'),
+                ('Gerar', 'Geracao'),
+                ('Planejar', 'Planejamento'),
+                ('Produzir', 'Producao'),
+) 
+
+#Nova Taxionomia
+#Lembrar, Entender, Aplicar, Analisar, Avaliar e Criar   
 class Taxionomia(models.Model):
-    nome = models.CharField(max_length = 100, unique=True)
+    nome = models.CharField(max_length = 100, choices=TAXIONOMIA_CHOICES, unique=True, default='Lembrar')
     descricao = models.TextField()
     class Meta:
         verbose_name = u'Taxionomia'
@@ -17,8 +53,9 @@ class Taxionomia(models.Model):
 #Analizar (Diferenciar,Organizar,Atribuir)
 #Avaliacao (Verificar,Criticar)
 #Criar (Gerar,Planejar,Produzir)
+
 class Classificacao(models.Model):
-    nome = models.CharField(max_length = 100, unique=True)
+    nome = models.CharField(max_length = 100, choices=CLASSIFICACAO_CHOICES, unique=True)
     taxionomia = models.ForeignKey(Taxionomia)
     descricao = models.TextField()
     class Meta:
