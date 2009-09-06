@@ -15,7 +15,7 @@ TAXIONOMIA_CHOICES = (
 ) 
 CLASSIFICACAO_CHOICES = (
                 ('Reconhecer', 'Reconhecimento'),
-                ('Rembrar', 'Lembranca'),
+                ('Rembrar', 'Memoria'),
                 ('Interpretar', 'Interprementacao'),
                 ('Exemplificar', 'Demostracao'),
                 ('Classificar', 'Classificacao'),
