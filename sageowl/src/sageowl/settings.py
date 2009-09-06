@@ -78,5 +78,6 @@ INSTALLED_APPS = (
     
     # sageowl apps 
     'sageowl.questoes',
-    'sageowl.usuarios'
+    'sageowl.usuarios',
+    'sageowl.avaliacoes'
 )
