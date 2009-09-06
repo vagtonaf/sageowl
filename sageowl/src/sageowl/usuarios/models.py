@@ -3,50 +3,35 @@ from django.utils.translation import ugettext as _
 from django.conf import settings       
 import datetime 
 
-CHOICE_SEXO =(
-    ('Homem'    ,  'M'),
-    ('Mulher'      ,  'F'  ),
+CHOICE_SEXO=(
+    ('M'    ,  'Masculino'),
+    ('F'      ,  'Feminino'  ),
 )
 
-CHOICE_ESTADO =(
-    ('Minas Gerais'      ,  'MG'  ),
-    ('Rio de Janeiro'    ,  'RJ'),
-    ('Sao Paulo'      ,  'SP'  ),
+CHOICE_ESTADO=(
+    ('MG'      ,  'Minas Gerais'  ),
+    ('RJ'    ,  'Rio de Janeiro'),
+    ('SP'      ,  'Sao Paulo'  ),
 )
 
-CHOICE_CIVIL =(
-    ('Casado'      ,  'C'  ),
-    ('Solteiro'    ,  'S'),
-    ('Divorciado'      ,  'D'  ),
+CHOICE_CIVIL=(
+    ('C'      ,  'Casado'  ),
+    ('S'    ,  'Solteiro'),
+    ('D'      ,  'Divorciado'  ),
 )
 
-CHOICE_SIM_NAO =(
-    ('Sim'      ,  'S'  ),
-    ('Nao'      ,  'N'  ),
+CHOICE_SIM_NAO=(
+    ('S'      ,  'Sim'  ),
+    ('N'      ,  'Nao'  ),
 ) 
-   
-class Usuario(models.Model):
-    login = models.CharField(max_length = 20, unique=True)
-    password = models.CharField('Senha de Acesso',max_length = 20)
-    perfil = models.CharField(max_length = 1, blank=True, null=True) #A-Admin, U-Aluno, C-Consulta
-    blk = models.BooleanField(verbose_name="Ativo", default=True) #Bloqueio de acesso
-    dt_cadastro = models.DateTimeField(verbose_name='Data de Cadastro', auto_now_add=True) 
-    class Meta:
-        verbose_name = u'Usuario'
-        verbose_name_plural = u'Usuarios'
-    def __unicode__(self): 
-        return self.login 
-     
-class Grupo(models.Model):
-    nome = models.CharField(max_length = 100, unique=True)
-    usuarios = models.ManyToManyField(Usuario)
-    class Meta:
-        verbose_name = u'Grupo'
-        verbose_name_plural = u'Grupos'
-    def __unicode__(self): 
-        return self.nome 
-    
-class Pessoa(Usuario): 
+
+CHOICE_PERFIL=(
+    ('A'      ,  'Administrador'  ),
+    ('U'      ,  'Usuario'  ),
+    ('C'      ,  'Usuario de Consulta'  ),
+) 
+
+class Pessoa(models.Model): 
     nome = models.CharField('Nome',max_length=100) 
     mae = models.CharField('Nome da Mae',max_length=100) 
     pai = models.CharField('Nome do Pai',max_length=100,null=True,blank=True) 
@@ -73,8 +58,8 @@ class Pessoa(Usuario):
         verbose_name = u'Pessoa'
         verbose_name_plural = u'Pessoas'
     def __unicode__(self): 
-        return self.nome 
-    
+        return self.nome    
+
 class Avaliador(Pessoa):
     refFuncional=models.CharField(max_length=20, unique=True)
     class Meta:
@@ -90,4 +75,26 @@ class Avaliado(Pessoa):
         verbose_name_plural = u'Avaliados'
     def __unicode__(self): 
         return self.matricula
+    
+class Usuario(Pessoa):
+    login = models.CharField(max_length = 20, unique=True)
+    password = models.CharField('Senha de Acesso',max_length = 20)
+    perfil = models.CharField(max_length = 1, blank=True, null=True,choices=CHOICE_PERFIL) #A-Admin, U-Aluno, C-Consulta
+    blk = models.BooleanField(verbose_name="Ativo", default=True) #Bloqueio de acesso
+    dt_cadastro = models.DateTimeField(verbose_name='Data de Cadastro', auto_now_add=True) 
+    class Meta:
+        verbose_name = u'Usuario'
+        verbose_name_plural = u'Usuarios'
+    def __unicode__(self): 
+        return self.login 
+     
+class Grupo(models.Model):
+    nome = models.CharField(max_length = 100, unique=True)
+    usuario = models.ManyToManyField(Usuario)
+    class Meta:
+        verbose_name = u'Grupo'
+        verbose_name_plural = u'Grupos'
+    def __unicode__(self): 
+        return self.nome 
+    
     
