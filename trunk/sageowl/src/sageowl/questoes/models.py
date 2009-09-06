@@ -82,7 +82,9 @@ class QuestaoDiscurssiva(Questao):
     resposta = models.TextField()
 
 class QuestaoObjetiva(Questao):
-    pass
+    linkWebConsulta = models.CharField(max_length=50, verbose_name='Website', 
+help_text=' URL:  http://www.exemplo.com.br')
+#    pass
     
 class Alternativa(models.Model):
     questao = models.ForeignKey(QuestaoObjetiva)
