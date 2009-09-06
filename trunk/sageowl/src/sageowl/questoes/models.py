@@ -5,7 +5,7 @@ from django.conf import settings
 import datetime 
  
 
-TAXIONOMIA_CHOICES = (
+CHOICE_TAXIONOMIA=(
                 ('Lembrar', 'Lembranca'),
                 ('Entender', 'Entendimento'),
                 ('Aplicar', 'Aplicacao'),
@@ -13,7 +13,7 @@ TAXIONOMIA_CHOICES = (
                 ('Avaliar', 'Avaliacao'),
                 ('Criar', 'Criacao'),
 ) 
-CLASSIFICACAO_CHOICES = (
+CHOICE_CLASSIFICACAO=(
                 ('Reconhecer', 'Reconhecimento'),
                 ('Rembrar', 'Memoria'),
                 ('Interpretar', 'Interprementacao'),
@@ -35,10 +35,18 @@ CLASSIFICACAO_CHOICES = (
                 ('Produzir', 'Producao'),
 ) 
 
+CHOICE_LETRA=(
+                ('A', 'A'),
+                ('B', 'B'),
+                ('C', 'C'),
+                ('D', 'D'),
+                ('E', 'E - Nenhuma das Alternativa'),
+)
+
 #Nova Taxionomia
 #Lembrar, Entender, Aplicar, Analisar, Avaliar e Criar   
 class Taxionomia(models.Model):
-    nome = models.CharField(max_length = 100, choices=TAXIONOMIA_CHOICES, unique=True, default='Lembrar')
+    nome = models.CharField(max_length = 100, choices=CHOICE_TAXIONOMIA, unique=True, default='Lembrar')
     descricao = models.TextField()
     class Meta:
         verbose_name = u'Taxionomia'
@@ -55,7 +63,7 @@ class Taxionomia(models.Model):
 #Criar (Gerar,Planejar,Produzir)
 
 class Classificacao(models.Model):
-    nome = models.CharField(max_length = 100, choices=CLASSIFICACAO_CHOICES, unique=True)
+    nome = models.CharField(max_length = 100, choices=CHOICE_CLASSIFICACAO, unique=True)
     taxionomia = models.ForeignKey(Taxionomia)
     descricao = models.TextField()
     class Meta:
@@ -76,7 +84,6 @@ class Questao(models.Model):
         verbose_name_plural = u'Questoes'
     def __unicode__(self): 
         return self.texto 
-
      
 class QuestaoDiscurssiva(Questao):
     resposta = models.TextField()
@@ -88,9 +95,9 @@ help_text=' URL:  http://www.exemplo.com.br')
     
 class Alternativa(models.Model):
     questao = models.ForeignKey(QuestaoObjetiva)
-    letra = models.CharField(max_length = 1)
+    letra = models.CharField(max_length = 1,default='A', choices=CHOICE_LETRA,)
     descricao = models.TextField()
-    correta = models.BooleanField()
+    correta = models.BooleanField(verbose_name="Correta", default=False)
     class Meta:
         unique_together = ('questao', 'letra')
         unique_together = ('questao', 'correta')
