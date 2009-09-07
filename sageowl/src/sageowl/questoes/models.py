@@ -46,7 +46,7 @@ CHOICE_LETRA=(
 #Nova Taxionomia
 #Lembrar, Entender, Aplicar, Analisar, Avaliar e Criar   
 class Taxionomia(models.Model):
-    nome = models.CharField(max_length = 100, choices=CHOICE_TAXIONOMIA, unique=True, default='Lembrar')
+    nome = models.CharField(verbose_name="Nova Taxionomia", max_length = 100, choices=CHOICE_TAXIONOMIA, unique=True, default='Lembrar')
     descricao = models.TextField()
     class Meta:
         verbose_name = u'Taxionomia'
@@ -63,7 +63,7 @@ class Taxionomia(models.Model):
 #Criar (Gerar,Planejar,Produzir)
 
 class Classificacao(models.Model):
-    nome = models.CharField(max_length = 100, choices=CHOICE_CLASSIFICACAO, unique=True)
+    nome = models.CharField(verbose_name="Classificacao da nova taxionomia", max_length = 100, choices=CHOICE_CLASSIFICACAO, unique=True)
     taxionomia = models.ForeignKey(Taxionomia)
     descricao = models.TextField()
     class Meta:
@@ -75,7 +75,7 @@ class Classificacao(models.Model):
     
 class Questao(models.Model):
     referencia = models.CharField(max_length = 20, unique=True)
-    classificacao = models.ForeignKey(Classificacao)
+    classificacao = models.ForeignKey(Classificacao, verbose_name="Classificacao da nova taxionomia")
     texto = models.TextField()
     valor = models.FloatField(null=True) # o valor e da questao ex 5,2
     class Meta:
@@ -100,7 +100,6 @@ class Alternativa(models.Model):
     correta = models.BooleanField(verbose_name="Correta", default=False)
     class Meta:
         unique_together = ('questao', 'letra')
-        unique_together = ('questao', 'correta')
         verbose_name = u'Alternativa'
         verbose_name_plural = u'Alternativas'
 
