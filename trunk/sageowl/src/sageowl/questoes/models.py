@@ -74,7 +74,7 @@ class Classificacao(models.Model):
         return self.nome 
     
 class Questao(models.Model):
-    referencia = models.CharField(max_length = 50, unique=True)
+    referencia = models.CharField(max_length = 20, unique=True)
     classificacao = models.ForeignKey(Classificacao)
     texto = models.TextField()
     valor = models.FloatField(null=True) # o valor e da questao ex 5,2
