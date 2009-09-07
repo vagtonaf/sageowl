@@ -4,7 +4,7 @@ DEBUG = True
 TEMPLATE_DEBUG = DEBUG
 
 ADMINS = (
-     ('vitu', 'vitu@thevitu.com'),
+     ('vagtonaf', 'vagtonaf@gmail.com'),
 )
 
 MANAGERS = ADMINS
@@ -77,7 +77,8 @@ INSTALLED_APPS = (
     'django.contrib.admin',
     
     # sageowl apps 
+    'sageowl.pessoas',
     'sageowl.questoes',
-    'sageowl.usuarios',
+    'sageowl.instituicoes',
     'sageowl.avaliacoes'
 )
