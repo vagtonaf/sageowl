@@ -1,3 +1,4 @@
+from sageowl.pessoas.models import Pessoa
 from sageowl.pessoas.models import Avaliador
 from sageowl.pessoas.models import Avaliado
 from sageowl.pessoas.models import Usuario
