@@ -77,6 +77,8 @@ class Questao(models.Model):
     referencia = models.CharField(max_length = 20, unique=True)
     classificacao = models.ForeignKey(Classificacao, verbose_name="Classificacao da nova taxionomia")
     texto = models.TextField()
+    linkImagem=models.CharField(max_length = 150)
+    linkSom=models.CharField(max_length = 150)
     valor = models.FloatField(null=True) # o valor e da questao ex 5,2
     class Meta:
         unique_together = ('referencia', 'classificacao')
