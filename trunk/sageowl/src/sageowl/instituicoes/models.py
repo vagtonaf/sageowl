@@ -48,4 +48,4 @@ class Turma(models.Model):
         verbose_name = u'Turma'
         verbose_name_plural = u'Turmas'
     def __unicode__(self): 
-        return self.nome
+        return self.referencia

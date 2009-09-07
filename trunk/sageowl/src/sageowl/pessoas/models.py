@@ -1,3 +1,4 @@
+from sageowl.instituicoes.models import Turma
 from django.db import models
 from django.utils.translation import ugettext as _ 
 from django.conf import settings       
@@ -77,7 +78,7 @@ class Pessoa(models.Model):
     foneresidencial = models.CharField('Telefone Residencial',max_length=13,null=True,blank=True) 
     celular = models.CharField('Celular',max_length=13,null=True,blank=True) 
     email = models.CharField('E-Mail',max_length=80,null=True,blank=True) 
-    dt_cadastro = models.DateTimeField(verbose_name='Data de Cadastro', auto_now_add=True)
+    dth_cadastro = models.DateTimeField(verbose_name='Data de Cadastro', auto_now_add=True)
     class Meta:
         verbose_name = u'Pessoa'
         verbose_name_plural = u'Pessoas'
@@ -86,6 +87,7 @@ class Pessoa(models.Model):
 
 class Avaliador(Pessoa):
     refFuncional=models.CharField(max_length=20, unique=True)
+    turma = models.ManyToManyField(Turma)
     class Meta:
         verbose_name = u'Avaliador'
         verbose_name_plural = u'Avaliadores'
@@ -94,18 +96,19 @@ class Avaliador(Pessoa):
 
 class Avaliado(Pessoa):
     matricula=models.CharField(max_length=20, unique=True)
+    turma = models.ManyToManyField(Turma)
     class Meta:
         verbose_name = u'Avaliado'
         verbose_name_plural = u'Avaliados'
     def __unicode__(self): 
         return self.matricula
     
-class Usuario(Pessoa):
+class Usuario(models.Model):
+    pessoa=models.ManyToManyField(Pessoa)
     login = models.CharField(max_length = 20, unique=True)
     password = models.CharField('Senha de Acesso',max_length = 20)
     perfil = models.CharField(max_length = 1, blank=True, null=True,choices=CHOICE_PERFIL) #A-Admin, U-Aluno, C-Consulta
     blk = models.BooleanField(verbose_name="Ativo", default=True) #Bloqueio de acesso
-    dt_cadastro = models.DateTimeField(verbose_name='Data de Cadastro', auto_now_add=True) 
     class Meta:
         verbose_name = u'Usuario'
         verbose_name_plural = u'Usuarios'
