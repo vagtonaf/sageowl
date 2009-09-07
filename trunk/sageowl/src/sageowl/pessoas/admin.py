@@ -5,6 +5,7 @@ from sageowl.pessoas.models import Grupo
 
 from django.contrib import admin
 
+admin.site.register(Pessoa)
 admin.site.register(Avaliador)
 admin.site.register(Avaliado)
 admin.site.register(Usuario)
