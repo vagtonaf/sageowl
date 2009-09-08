@@ -86,7 +86,7 @@ class Questao(models.Model):
         verbose_name = u'Questão'
         verbose_name_plural = u'Questões'
     def __unicode__(self): 
-        return self.texto 
+        return self.texto
      
 class QuestaoDiscurssiva(Questao):
     resposta = models.TextField()
