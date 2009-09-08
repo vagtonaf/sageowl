@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from django.db import models
 
 from django.utils.translation import ugettext as _ 
@@ -6,33 +7,33 @@ import datetime
  
 
 CHOICE_TAXIONOMIA=(
-                ('Lembrar', 'Lembranca'),
+                ('Lembrar', u'Lembrança'),
                 ('Entender', 'Entendimento'),
-                ('Aplicar', 'Aplicacao'),
+                ('Aplicar', u'Aplicação'),
                 ('Analizar', 'Analize'),
-                ('Avaliar', 'Avaliacao'),
-                ('Criar', 'Criacao'),
+                ('Avaliar', u'Avaliação'),
+                ('Criar', u'Criação'),
 ) 
 CHOICE_CLASSIFICACAO=(
                 ('Reconhecer', 'Reconhecimento'),
-                ('Rembrar', 'Memoria'),
-                ('Interpretar', 'Interprementacao'),
-                ('Exemplificar', 'Demostracao'),
-                ('Classificar', 'Classificacao'),
-                ('Concluir', 'Conclusao'),
-                ('Comparar', 'Comparacao'),
-                ('Esplicar', 'Esplicacao'),
-                ('Resumir', 'Simplificao'),
-                ('Executar', 'Execucao'),
-                ('Implementar', 'Implementacao'),
-                ('Diferenciar', 'Diferenciacao'),
-                ('Organizar', 'Organizacao'),
-                ('Atribuir', 'Atribuicao'),
-                ('Verificar', 'Verificacao'),
-                ('Criticar', 'Argumentacao'),
-                ('Gerar', 'Geracao'),
+                ('Rembrar', u'Memória'),
+                ('Interpretar', u'Interpretação'),
+                ('Exemplificar', u'Demostração'),
+                ('Classificar', u'Classificação'),
+                ('Concluir', u'Conclusão'),
+                ('Comparar', u'Comparação'),
+                ('Esplicar', u'Esplicação'),
+                ('Resumir', u'Simplificação'),
+                ('Executar', u'Execução'),
+                ('Implementar', u'Implementação'),
+                ('Diferenciar', u'Diferenciação'),
+                ('Organizar', u'Organização'),
+                ('Atribuir', u'Atribuição'),
+                ('Verificar', u'Verificação'),
+                ('Criticar', u'Argumentação'),
+                ('Gerar', u'Geração'),
                 ('Planejar', 'Planejamento'),
-                ('Produzir', 'Producao'),
+                ('Produzir', u'Produção'),
 ) 
 
 CHOICE_LETRA=(
@@ -46,8 +47,8 @@ CHOICE_LETRA=(
 #Nova Taxionomia
 #Lembrar, Entender, Aplicar, Analisar, Avaliar e Criar   
 class Taxionomia(models.Model):
-    nome = models.CharField(verbose_name="Nova Taxionomia", max_length = 100, choices=CHOICE_TAXIONOMIA, unique=True, default='Lembrar')
-    descricao = models.TextField()
+    nome = models.CharField(verbose_name='Nova Taxionomia', max_length = 100, choices=CHOICE_TAXIONOMIA, unique=True, default='Lembrar')
+    descricao = models.TextField(verbose_name=u'Decrição')
     class Meta:
         verbose_name = u'Taxionomia'
         verbose_name_plural = u'Taxionomias'
@@ -63,37 +64,46 @@ class Taxionomia(models.Model):
 #Criar (Gerar,Planejar,Produzir)
 
 class Classificacao(models.Model):
-    nome = models.CharField(verbose_name="Classificacao da nova taxionomia", max_length = 100, choices=CHOICE_CLASSIFICACAO, unique=True)
+    nome = models.CharField(verbose_name=u'Classificação da nova taxionomia', max_length = 100, choices=CHOICE_CLASSIFICACAO, unique=True)
     taxionomia = models.ForeignKey(Taxionomia)
-    descricao = models.TextField()
+    descricao = models.TextField(verbose_name=u'Decrição')
     class Meta:
         unique_together = ('nome', 'taxionomia')
-        verbose_name = u'Classificacao'
-        verbose_name_plural = u'Classificacoes'
+        verbose_name = u'Classificação'
+        verbose_name_plural = u'Classificações'
     def __unicode__(self): 
         return self.nome 
     
 class Questao(models.Model):
-    referencia = models.CharField(max_length = 20, unique=True)
-    classificacao = models.ForeignKey(Classificacao, verbose_name="Classificacao da nova taxionomia")
+    referencia = models.CharField(max_length = 20, unique=True, verbose_name=u'Referência')
+    classificacao = models.ForeignKey(Classificacao, verbose_name=u'Classificação da nova taxionomia')
     texto = models.TextField()
     linkImagem=models.CharField(max_length = 150)
     linkSom=models.CharField(max_length = 150)
     valor = models.FloatField(null=True) # o valor e da questao ex 5,2
     class Meta:
         unique_together = ('referencia', 'classificacao')
-        verbose_name = u'Questao'
-        verbose_name_plural = u'Questoes'
+        verbose_name = u'Questão'
+        verbose_name_plural = u'Questões'
     def __unicode__(self): 
         return self.texto 
      
 class QuestaoDiscurssiva(Questao):
     resposta = models.TextField()
+    class Meta:
+        verbose_name = u'Questão Discurssiva'
+        verbose_name_plural = u'Questões Discurssivas'
+    def __unicode__(self): 
+        return self.resposta
 
 class QuestaoObjetiva(Questao):
-    linkWebConsulta = models.CharField(max_length=50, verbose_name='Website', 
+    linkWebConsulta = models.CharField(max_length=50, verbose_name='Web Site', 
 help_text=' URL:  http://www.exemplo.com.br')
-#    pass
+    class Meta:
+        verbose_name = u'Questão Objetiva'
+        verbose_name_plural = u'Questões Objetivas'
+    def __unicode__(self): 
+        return self.linkWebConsulta
     
 class Alternativa(models.Model):
     questao = models.ForeignKey(QuestaoObjetiva)

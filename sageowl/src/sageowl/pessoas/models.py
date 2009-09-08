@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from sageowl.instituicoes.models import Turma
 from django.db import models
 from django.utils.translation import ugettext as _ 
@@ -11,29 +12,29 @@ CHOICE_SEXO=(
 
 CHOICE_ESTADO=(
     ('MG'      ,  'Minas Gerais'  ),
-    ('BA','Bahia'),
-    ('PB','Paraiba'),
+    ('BA',u'Bahía'),
+    ('PB',u'Paraíba'),
     ('AL','Alagoas'),
     ('GO','Goias'),
     ('MT','Mato Grosso'),
     ('MG','Minas Gerais'),
     ('PE','Pernambuco'),
-    ('RO','Rondionia'),
-    ('RR','Roraima'),
+    ('RO',u'Rondônia'),
+    ('RR','Rorãima'),
     ('SC','Santa Catarina'),
     ('SP','Sao Paulo'),
     ('SE','Sergipe'),
     ('TO','Tocantins'),
     ('AC','Acre'),
-    ('AP','Amapa'),
+    ('AP',u'Amapá'),
     ('AM','Amazonas'),
-    ('CE','Ceara'),
+    ('CE',u'Ceará'),
     ('ES','Espirito Santo'),
-    ('MA','Maranhao'),
+    ('MA',u'Maranhão'),
     ('MS','Mato Grosso do Sul'),
-    ('PA','Para'),
+    ('PA',u'Pará'),
     ('PR','Parana'),
-    ('PI','Piaui'),
+    ('PI',u'Piauí'),
     ('RJ','Rio de Janeiro'),
     ('RN','Rio Grande do Norte'),
     ('RS','Rio Grande do Sul'),
@@ -58,7 +59,7 @@ CHOICE_PERFIL=(
 
 class Pessoa(models.Model): 
     nome = models.CharField('Nome',max_length=100) 
-    mae = models.CharField('Nome da Mae',max_length=100) 
+    mae = models.CharField(u'Nome da Mãe',max_length=100) 
     pai = models.CharField('Nome do Pai',max_length=100,null=True,blank=True) 
     dt_nasc = models.DateField('Data de Nascimento') 
     naturalidade = models.CharField('Naturalicade',max_length=100) 
@@ -70,12 +71,12 @@ class Pessoa(models.Model):
     cpf = models.CharField('CPF',max_length=11,null=True,blank=True) 
     estadocivil = models.CharField('Estado Civil',max_length=1,choices=CHOICE_CIVIL) 
     destro = models.CharField('Destro',max_length=1,default='S',choices=CHOICE_SIM_NAO) 
-    endereco = models.CharField('Endereco',max_length=100) 
+    endereco = models.CharField(u'Endereço',max_length=100) 
     bairro = models.CharField('Bairro',max_length=60) 
     complemento = models.CharField('Complemento',max_length=100,null=True,blank=True) 
     cidade = models.CharField('Cidade',max_length=100) 
     cep = models.CharField('Cep',max_length=10,null=True,blank=True) 
-    foneresidencial = models.CharField('Telefone Residencial',max_length=13,null=True,blank=True) 
+    foneresidencial = models.CharField(u'Telefone Residêncial',max_length=13,null=True,blank=True) 
     celular = models.CharField('Celular',max_length=13,null=True,blank=True) 
     email = models.CharField('E-Mail',max_length=80,null=True,blank=True) 
     dth_cadastro = models.DateTimeField(verbose_name='Data de Cadastro', auto_now_add=True)
@@ -95,7 +96,7 @@ class Avaliador(Pessoa):
         return self.refFuncional 
 
 class Avaliado(Pessoa):
-    matricula=models.CharField(max_length=20, unique=True)
+    matricula=models.CharField(max_length=20, unique=True, verbose_name=u'Matrícula')
     turma = models.ManyToManyField(Turma)
     class Meta:
         verbose_name = u'Avaliado'
@@ -110,8 +111,8 @@ class Usuario(models.Model):
     perfil = models.CharField(max_length = 1, blank=True, null=True,choices=CHOICE_PERFIL) #A-Admin, U-Aluno, C-Consulta
     blk = models.BooleanField(verbose_name="Ativo", default=True) #Bloqueio de acesso
     class Meta:
-        verbose_name = u'Usuario'
-        verbose_name_plural = u'Usuarios'
+        verbose_name = u'Usuário'
+        verbose_name_plural = u'Usuários'
     def __unicode__(self): 
         return self.login 
      
