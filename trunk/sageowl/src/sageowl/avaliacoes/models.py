@@ -28,8 +28,8 @@ CHOICE_TIPO_PROVA=(
 class Avaliacao(models.Model):
     referencia=models.CharField(max_length=20, unique=True, verbose_name=u'Referência')
     turma=models.ForeignKey(Turma)
-    dt_avaliacao=models.DateTimeField(verbose_name=u'Data da Avaliação')
-    tipoAvaliacao = models.CharField(u'Tipo de Avaliação',max_length=1,choices=CHOICE_TIPO_AVALIACAO)
+    dt_avaliacao=models.DateTimeField(verbose_name=u'Data da Avaliação',null=True,blank=True)
+    tipoAvaliacao = models.CharField(u'Tipo de Avaliação',max_length=1,choices=CHOICE_TIPO_AVALIACAO,null=True)
     class Meta:
         verbose_name=u'Avaliação'
         verbose_name_plural=u'Avaliações'
@@ -39,7 +39,7 @@ class Avaliacao(models.Model):
 class Prova(models.Model):
     avaliacao=models.ForeignKey(Avaliacao)
     questao=models.ForeignKey(Questao, verbose_name=u'Questão')
-    tipoProva = models.CharField('Tipo de Prova',max_length=10,choices=CHOICE_TIPO_PROVA)    
+    tipoProva = models.CharField('Tipo de Prova',max_length=10,choices=CHOICE_TIPO_PROVA,null=True,blank=True)    
     class Meta:
         verbose_name=u'prova'
         verbose_name_plural=u'Provas'
@@ -50,12 +50,12 @@ class Resolucao(models.Model):
     avaliador=models.ForeignKey(Avaliador)
     avaliado=models.ForeignKey(Avaliado)
     prova=models.ForeignKey(Prova)
-    resposta=models.TextField(verbose_name='Resposta do Avaliado') #Resposta da discursiva
-    obsAvaliador=models.TextField(verbose_name=u'Observação do Avaliador')
-    respostaAvaliador=models.BooleanField(verbose_name='Correta', default=False) # o avaliador  resposnde se esta correta
-    notaAvaliador=models.FloatField(verbose_name='Nota do Avaliador', null=True) # o nota dada pelo avaliador da questao ex 5,2
+    resposta=models.TextField(verbose_name='Resposta do Avaliado',null=True,blank=True) #Resposta da discursiva
+    obsAvaliador=models.TextField(verbose_name=u'Observação do Avaliador',null=True,blank=True)
+    respostaAvaliador=models.BooleanField(verbose_name='Correta', default=False,null=True,blank=True) # o avaliador  resposnde se esta correta
+    notaAvaliador=models.FloatField(verbose_name='Nota do Avaliador', null=True,blank=True) # o nota dada pelo avaliador da questao ex 5,2
     dth_resolucao=models.DateTimeField(verbose_name=u'Data de Resolução', auto_now_add=True)
-    dth_correcao=models.DateTimeField(verbose_name=u'Data de Correção')
+    dth_correcao=models.DateTimeField(verbose_name=u'Data de Correção',null=True,blank=True)
     class Meta:
         verbose_name=u'Resolução'
         verbose_name_plural=u'Resoluções'
