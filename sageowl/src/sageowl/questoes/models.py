@@ -48,7 +48,7 @@ CHOICE_LETRA=(
 #Lembrar, Entender, Aplicar, Analisar, Avaliar e Criar   
 class Taxionomia(models.Model):
     nome = models.CharField(verbose_name='Nova Taxionomia', max_length = 100, choices=CHOICE_TAXIONOMIA, unique=True, default='Lembrar')
-    descricao = models.TextField(verbose_name=u'Decrição')
+    descricao = models.TextField(verbose_name=u'Descrição',null=True)
     class Meta:
         verbose_name = u'Taxionomia'
         verbose_name_plural = u'Taxionomias'
@@ -66,7 +66,7 @@ class Taxionomia(models.Model):
 class Classificacao(models.Model):
     nome = models.CharField(verbose_name=u'Classificação da nova taxionomia', max_length = 100, choices=CHOICE_CLASSIFICACAO, unique=True)
     taxionomia = models.ForeignKey(Taxionomia)
-    descricao = models.TextField(verbose_name=u'Decrição')
+    descricao = models.TextField(verbose_name=u'Decrição',null=True,blank=True)
     class Meta:
         unique_together = ('nome', 'taxionomia')
         verbose_name = u'Classificação'
@@ -75,16 +75,17 @@ class Classificacao(models.Model):
         return self.nome 
     
 class Questao(models.Model):
-    referencia = models.CharField(max_length = 20, unique=True, verbose_name=u'Referência')
-    classificacao = models.ForeignKey(Classificacao, verbose_name=u'Classificação da nova taxionomia')
-    texto = models.TextField()
-    linkImagem=models.CharField(max_length = 150)
-    linkSom=models.CharField(max_length = 150)
-    valor = models.FloatField(null=True) # o valor e da questao ex 5,2
+    referencia=models.CharField(max_length=20, unique=True, verbose_name=u'Referência')
+    classificacao=models.ForeignKey(Classificacao, verbose_name=u'Classificação da nova taxionomia')
+    texto=models.TextField()
+    linkImagem=models.CharField(max_length=150,null=True,blank=True)
+    linkSom=models.CharField(max_length=150,null=True,blank=True)
+    linkWeb=models.CharField(max_length=50,null=True,blank=True, verbose_name='Web Site',help_text=' URL:  http://www.python.com.br')
+    valor=models.FloatField(null=True,blank=True) # o valor e da questao ex 5,2
     class Meta:
-        unique_together = ('referencia', 'classificacao')
-        verbose_name = u'Questão'
-        verbose_name_plural = u'Questões'
+        unique_together=('referencia', 'classificacao')
+        verbose_name=u'Questão'
+        verbose_name_plural=u'Questões'
     def __unicode__(self): 
         return self.texto
      
@@ -97,8 +98,7 @@ class QuestaoDiscurssiva(Questao):
         return self.resposta
 
 class QuestaoObjetiva(Questao):
-    linkWebConsulta = models.CharField(max_length=50, verbose_name='Web Site', 
-help_text=' URL:  http://www.exemplo.com.br')
+    pass
     class Meta:
         verbose_name = u'Questão Objetiva'
         verbose_name_plural = u'Questões Objetivas'
@@ -106,10 +106,10 @@ help_text=' URL:  http://www.exemplo.com.br')
         return self.linkWebConsulta
     
 class Alternativa(models.Model):
-    questao = models.ForeignKey(QuestaoObjetiva)
+    questao = models.ForeignKey(QuestaoObjetiva, verbose_name=u'Questão Objetiva')
     letra = models.CharField(max_length = 1,default='A', choices=CHOICE_LETRA,)
-    descricao = models.TextField()
-    correta = models.BooleanField(verbose_name="Correta", default=False)
+    descricao = models.TextField(null=True,blank=True)
+    correta = models.BooleanField(verbose_name='Correta', default=False)
     class Meta:
         unique_together = ('questao', 'letra')
         verbose_name = u'Alternativa'
