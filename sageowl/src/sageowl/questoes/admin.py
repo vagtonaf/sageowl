@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*- 
+
 from sageowl.questoes.models import Classificacao 
 from sageowl.questoes.models import Taxionomia 
 from sageowl.questoes.models import Alternativa

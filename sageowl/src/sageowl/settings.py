@@ -1,4 +1,7 @@
 # Django settings para o projeto sageowl.
+import os
+
+PROJECT_ROOT_PATH = os.path.dirname(os.path.abspath(__file__))
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
@@ -30,7 +33,8 @@ USE_I18N = True
 
 # Absolute path to the directory that holds media.
 # Example: "/home/media/media.lawrence.com/"
-MEDIA_ROOT = './media/'
+#MEDIA_ROOT = './media/'
+MEDIA_ROOT = os.path.join(PROJECT_ROOT_PATH, 'media')
 
 # URL that handles the media served from MEDIA_ROOT. Make sure to use a
 # trailing slash if there is a path component (optional in other cases).
@@ -61,12 +65,14 @@ MIDDLEWARE_CLASSES = (
 
 ROOT_URLCONF = 'sageowl.urls'
 
-TEMPLATE_DIRS = (''
-    "d:/www/django/templates"
+#TEMPLATE_DIRS = (''
+#    "d:/www/django/templates"
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
-)
+#)
+
+TEMPLATE_DIRS = os.path.join(PROJECT_ROOT_PATH, 'templates')
 
 INSTALLED_APPS = (
     # Django apps
