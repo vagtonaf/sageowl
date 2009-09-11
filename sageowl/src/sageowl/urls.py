@@ -19,5 +19,8 @@ urlpatterns = patterns('',
     (r'^questoes/(?P<questao_id>\d+)/cadastro/$', 'sageowl.questoes.views.cadastro'),
 
     (r'^admin/(.*)', admin.site.root),
-         
+    
 )
+
+
+

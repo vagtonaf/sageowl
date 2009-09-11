@@ -1,0 +1,30 @@
+{% extends "base/base.html" %} 
+  
+ {% block title %}Página não encontrada{% endblock %} 
+  
+ {% block cssid %}clean{% endblock %} 
+  
+ {% block accesslink %} 
+     <ul class="hidden"> 
+         <li><a href="#principal">Pular para o conteúdo</a></li> 
+     </ul> 
+ {% endblock %} 
+  
+ {% block billboard %}<h2>Erro 404</h2>{% endblock %} 
+  
+ {% block wrap %} 
+     <div id="principal"> 
+         <div class="limite"> 
+             <h1>Página não encontrada</h1> 
+  
+             <p>Parece que o link que você seguiu está quebrado. 
+                 Se você acha que a falha é nossa, por favor  
+                 <a href="/contato/">conte pra gente</a>.</p> 
+  
+             <p>Você pode <a href="javascript:history.go(-1)">retornar 
+                     à pagina anterior</a> ou ir para 
+                 a <a href="/">página principal de nosso site</a>, se 
+                 preferir.</p> 
+         </div> 
+     </div> 
+ {% endblock %} 

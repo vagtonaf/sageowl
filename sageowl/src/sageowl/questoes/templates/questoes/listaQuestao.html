@@ -1,0 +1,22 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+ {% load i18n %}
+  <html>
+   <head>
+        <title>{% block title %}{% trans "SAGEOWL" %}{% endblock %}</title>
+             <link href="/media/css/normal.css" rel="stylesheet" type="text/css"></link>
+		{% block headercontent %}{% endblock %}
+	</head>
+   <body> 
+{% if ultima_questao_list %}
+    <ul>
+	{% for questao in ultima_questao_list %}
+		<li>{{ questao.referencia }}</li>
+        <li>{{ questao.texto }}</li>
+        <li>{{ questao.valor }}</li>
+	{% endfor %}
+	</ul>
+{% else %}
+    <p>Nenhuma questoes encontrada.</p>
+{% endif %}
+ </body>
+</html> 
