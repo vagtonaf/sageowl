@@ -1,10 +1,11 @@
 # -*- coding: utf-8 -*-
 from django.db import models
+# Importamos o metodo mark_safe que possibilita utilizar códigos html
+from django.utils.safestring import mark_safe 
 
 from django.utils.translation import ugettext as _ 
 from django.conf import settings       
 import datetime 
- 
 
 CHOICE_TAXIONOMIA=(
                 ('Lembrar', u'Lembrança'),
@@ -88,7 +89,7 @@ class Questao(models.Model):
         verbose_name_plural=u'Questões'
     def __unicode__(self): 
         return self.texto
-     
+
 class QuestaoDiscurssiva(Questao):
     resposta = models.TextField()
     class Meta:
@@ -114,4 +115,4 @@ class Alternativa(models.Model):
         unique_together = ('questao', 'letra')
         verbose_name = u'Alternativa'
         verbose_name_plural = u'Alternativas'
-
+        
