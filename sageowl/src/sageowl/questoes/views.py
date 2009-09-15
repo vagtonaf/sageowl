@@ -12,3 +12,15 @@ def detail(request, questao_id):
     p = get_object_or_404(Questao, pk=questao_id)
     return render_to_response('questoes/detail.html', {'questao': p})
 
+from sageowl.questoes.forms import FormQuestao
+
+def CadQuestao(request):
+    if request.method=='POST':
+        form = FormQuestao(request.POST)
+        if form.is_valid():
+            pass
+            # aqui vai o código para enviar o e-mail
+            # veja mais em http://docs.djangoproject.com/en/dev/topics/email/
+    else:
+        form = FormQuestao()
+    return render_to_response('questoes/questao.html', {'form': form})

@@ -34,18 +34,19 @@ USE_I18N = True
 # Absolute path to the directory that holds media.
 # Example: "/home/media/media.lawrence.com/"
 #MEDIA_ROOT = './media/'
-MEDIA_ROOT = os.path.join(PROJECT_ROOT_PATH, 'media')
+MEDIA_ROOT = os.path.join(PROJECT_ROOT_PATH, '/media/')
 
 # URL that handles the media served from MEDIA_ROOT. Make sure to use a
 # trailing slash if there is a path component (optional in other cases).
 # Examples: "http://media.lawrence.com", "http://example.com/media/"
-MEDIA_URL = '/media/' 
-
+#MEDIA_URL = './media/' 
+MEDIA_URL = os.path.join(PROJECT_ROOT_PATH, '/media/')
 
 # URL prefix for admin media -- CSS, JavaScript and images. Make sure to use a
 # trailing slash.
 # Examples: "http://foo.com/media/", "/media/".
-ADMIN_MEDIA_PREFIX = '/media/'
+#ADMIN_MEDIA_PREFIX = '/media/'
+ADMIN_MEDIA_PREFIX = os.path.join(PROJECT_ROOT_PATH, '/media/')
 
 # Make this unique, and don't share it with anybody.
 SECRET_KEY = 'cshp$5t4d-xjszlz#vi*uaxg67scds$o0te3n4$9la4zfcpa^)'
@@ -87,4 +88,11 @@ INSTALLED_APPS = (
     'sageowl.questoes',
     'sageowl.instituicoes',
     'sageowl.avaliacoes'
+)
+
+TEMPLATE_CONTEXT_PROCESSORS = (
+    'django.core.context_processors.auth',
+    'django.core.context_processors.debug',
+    'django.core.context_processors.i18n',
+    'django.core.context_processors.media',
 )

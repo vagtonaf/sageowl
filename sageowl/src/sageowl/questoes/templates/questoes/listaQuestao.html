@@ -3,16 +3,31 @@
   <html>
    <head>
         <title>{% block title %}{% trans "SAGEOWL" %}{% endblock %}</title>
-             <link href="/media/css/normal.css" rel="stylesheet" type="text/css"></link>
+             <link href="{{ MEDIA_URL }}css/normal.css" rel="stylesheet" type="text/css"></link>
 		{% block headercontent %}{% endblock %}
 	</head>
-   <body> 
+<body>
+{{ PROJECT_ROOT_PATH }}
 {% if ultima_questao_list %}
     <ul>
 	{% for questao in ultima_questao_list %}
-		<li>{{ questao.referencia }}</li>
-        <li>{{ questao.texto }}</li>
-        <li>{{ questao.valor }}</li>
+	    <table BORDER=1>
+	    <TR>
+          <td COLSPAN=4><h2>LISTA DE QUESTOES</h2></td>	    
+	    </TR>
+	    <tr> 
+	      <td><h2>REFERENCIA</h2></td>
+          <td><h2>TEXTO</h2></td>
+          <td><h2>QUESTAO</h2></td>
+          <td><h2>CLASSIFICACAO</h2></td>
+        </tr>
+        <tr>  
+		  <td>{{ questao.referencia }}</td>
+          <td>{{ questao.texto }}</td>
+          <td>{{ questao.valor }}</td>
+          <td>{{ questao.classificacao }}</td>
+        </tr>
+        </table>
 	{% endfor %}
 	</ul>
 {% else %}

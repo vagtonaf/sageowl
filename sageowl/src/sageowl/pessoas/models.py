@@ -2,7 +2,9 @@
 from sageowl.instituicoes.models import Turma
 from django.db import models
 from django.utils.translation import ugettext as _ 
-from django.conf import settings       
+from django.conf import settings    
+from django.contrib.localflavor.br.br_states import STATE_CHOICES
+   
 import datetime 
 
 CHOICE_SEXO=(
@@ -67,7 +69,7 @@ class Pessoa(models.Model):
     sexo = models.CharField('Sexo',max_length=1,default='M',choices=CHOICE_SEXO) 
     rg = models.CharField('RG',max_length=25,null=True,blank=True) 
     rgorgexp = models.CharField('Orgao Expedidor',max_length=15,null=True,blank=True) 
-    uf = models.CharField('UF',max_length=2,default='RJ',choices=CHOICE_ESTADO,null=True,blank=True) 
+    uf = models.CharField('UF',max_length=2,default='RJ',choices=STATE_CHOICES,null=True,blank=True) 
     cpf = models.CharField('CPF',max_length=11,null=True,blank=True) 
     estadocivil = models.CharField('Estado Civil',max_length=1,choices=CHOICE_CIVIL,null=True,blank=True) 
     destro = models.CharField('Destro',max_length=1,default='S',choices=CHOICE_SIM_NAO,null=True,blank=True) 
