@@ -2,6 +2,8 @@
 from django.http import Http404
 from django.shortcuts import render_to_response, get_object_or_404
 from sageowl.questoes.models import Questao
+import random
+import pickle   #serializacao
 
 # Esta funcionando legal Vagton ele busca no template o listaQuestao.html
 def index(request):
@@ -24,3 +26,16 @@ def CadQuestao(request):
     else:
         form = FormQuestao()
     return render_to_response('questoes/questao.html', {'form': form})
+
+
+def GeraQuestoes(request):
+    names = pickle.load(file('/questoes/nomes'))
+    for i in range(1000):
+        emp = Questao()
+        emp.name = random.choice(names)
+        emp.classificacao = random.choice(list(Questao.objects.all()))
+        try: emp.reports_to = random.choice(list(Questao.objects.filter(classificacao=emp.classificacao)))
+        except:pass
+        emp.pk = random.randint(emp.pk.pay_min, emp.pk.pay_max)
+        emp.save()
+
