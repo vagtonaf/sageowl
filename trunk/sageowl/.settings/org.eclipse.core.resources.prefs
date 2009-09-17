@@ -1,7 +1,8 @@
-#Mon Sep 14 21:52:40 BRT 2009
+#Thu Sep 17 00:45:59 BRT 2009
 eclipse.preferences.version=1
 encoding//src/sageowl/avaliacoes/models.py=utf-8
 encoding//src/sageowl/instituicoes/models.py=utf-8
+encoding//src/sageowl/pessoas/forms.py=utf-8
 encoding//src/sageowl/pessoas/models.py=utf-8
 encoding//src/sageowl/questoes/admin.py=utf-8
 encoding//src/sageowl/questoes/forms.py=utf-8
