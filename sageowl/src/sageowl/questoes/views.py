@@ -29,10 +29,8 @@ def CadQuestao(request):
 
 
 def GeraQuestoes(request):
-    names = pickle.load(file('/questoes/nomes'))
     for i in range(1000):
         emp = Questao()
-        emp.name = random.choice(names)
         emp.classificacao = random.choice(list(Questao.objects.all()))
         try: emp.reports_to = random.choice(list(Questao.objects.filter(classificacao=emp.classificacao)))
         except:pass
