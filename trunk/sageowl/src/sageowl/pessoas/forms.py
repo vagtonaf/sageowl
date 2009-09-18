@@ -7,7 +7,7 @@ from django.contrib.localflavor.br.forms import BRCPFField
 from django.contrib.localflavor.br.forms import BRStateChoiceField
 from sageowl.pessoas.models import Avaliado
 
-class AvaliadoForm(ModelForm):
+class FormAvaliado(ModelForm):
     referencia = forms.CharField()
     cep = BRZipCodeField(label='CEP')
     turma = forms.CharField()
