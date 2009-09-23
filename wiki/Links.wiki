@@ -103,3 +103,33 @@ http://sourceforge.net/projects/scipy/files/scipy/0.7.1/scipy-0.7.1-win32-superp
 
 http://en.sourceforge.jp/projects/sfnet_scipy/downloads/scipy/0.7.1/scipy-0.7.1-win32-superpack-python2.6.exe/
 ver arquivo exemplo no wiki download: grafico.py
+
+##### servidor ########
+
+
+> Por onde começar para instalar um servidor
+> Python / Django
+
+Acredito que o site aprendendo django do Marinho seja de grande
+utilidade. Para instalar no seu ambiente de desenvolvimento, leia:
+Capítulo 3: Baixando e Instalando o Django [1].
+
+Para instalar em um servidor Windows, recomendo a leitura do Cáp. 16
+[2]. Sobre deploy [3].
+
+> Como devemos configurar e o que deve instalar para
+> conviver, se possível as duas aplicações Django e Web2py?
+
+Depois que tiver o ambiente em Django funcional, recomendo que visite
+o site do web2py [4] e visite a seção de "Downloads" e
+"Documentation". A versão do web2py para windows vem com um auto-
+executável similar ao Wamp e outros.
+
+[1] http://www.aprendendodjango.com/baixando-e-instalando-o-django/
+[2] http://www.aprendendodjango.com/preparando-um-servidor-com-windows/
+[3] http://www.aprendendodjango.com/infinitas-formas-de-se-fazer-deploy/
+[4] http://web2py.com/
+
+############################################
+
+Instale primeiro o Apache. Instalador normal mesmo (NNF - Next, Next, Finish). Depois instale o Python. Depois o Banco de dados. Depois o Django. Depois o módulo MySQLDB e o mod_wsgi (que é só fazer referência no apache). Instale o Web2Py. No restante é só configurar as aplicações. Se quiser dar uma melhorada no desempenho, dá pra configurar o apache, mantendo 2 instâncias dele, uma escutando em cada porta. Em uma delas você aumenta o cache, e utiliza para publicação de arquivos estáticos. Fica até razoável.
