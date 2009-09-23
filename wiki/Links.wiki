@@ -100,5 +100,5 @@ Numpy:
 http://sourceforge.net/projects/numpy/files/NumPy/1.3.0rc2/numpy-1.3.0rc2-win32-superpack-python2.6.exe/download
 
 http://sourceforge.net/projects/scipy/files/scipy/0.7.1/scipy-0.7.1-win32-superpack-python2.6.exe/download
-
+http://en.sourceforge.jp/projects/sfnet_scipy/downloads/scipy/0.7.1/scipy-0.7.1-win32-superpack-python2.6.exe/
 ver arquivo exemplo no wiki download: grafico.py
